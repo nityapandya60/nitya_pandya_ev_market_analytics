@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>EV Market Story</h2>
+<tableau-viz id="story" src="{{ url }}" toolbar="bottom"></tableau-viz>
+<p class="hint">Set <code>TABLEAU_STORY_URL</code> to your published story.</p>
+{% endblock %}

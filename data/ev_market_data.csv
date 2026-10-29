@@ -1,0 +1,1489 @@
+record_id,sales_year,manufacturer,model,category,battery_type,battery_capacity_kwh,driving_range_km,price_usd,manufacturing_country,sales_region,annual_sales,customer_rating,fast_charge_minutes
+1,2019,Tesla,Tesla Sedan M1,Sedan,NCA,74.7,576,46546,USA,Asia-Pacific,910,3.85,30
+2,2019,Tesla,Tesla Sedan M1,Sedan,NCA,74.7,576,46546,USA,Europe,339,3.85,26
+3,2019,Tesla,Tesla Sedan M1,Sedan,NCA,74.7,576,46546,USA,North America,355,3.85,36
+4,2019,Tesla,Tesla Sedan M1,Sedan,NCA,74.7,576,46546,USA,Rest of World,152,3.85,38
+5,2020,Tesla,Tesla Sedan M1,Sedan,NMC,77.0,526,48359,USA,Asia-Pacific,1130,3.91,30
+6,2020,Tesla,Tesla Sedan M1,Sedan,NMC,77.0,526,48359,USA,Europe,606,3.91,26
+7,2020,Tesla,Tesla Sedan M1,Sedan,NMC,77.0,526,48359,USA,North America,592,3.91,29
+8,2020,Tesla,Tesla Sedan M1,Sedan,NMC,77.0,526,48359,USA,Rest of World,196,3.91,28
+9,2021,Tesla,Tesla Sedan M1,Sedan,NMC,79.2,524,42388,USA,Asia-Pacific,1300,4.26,27
+10,2021,Tesla,Tesla Sedan M1,Sedan,NMC,79.2,524,42388,USA,Europe,564,4.26,24
+11,2021,Tesla,Tesla Sedan M1,Sedan,NMC,79.2,524,42388,USA,North America,544,4.26,36
+12,2021,Tesla,Tesla Sedan M1,Sedan,NMC,79.2,524,42388,USA,Rest of World,156,4.26,24
+13,2022,Tesla,Tesla Sedan M1,Sedan,LFP,81.5,544,40677,USA,Asia-Pacific,1632,4.24,29
+14,2022,Tesla,Tesla Sedan M1,Sedan,LFP,81.5,544,40677,USA,Europe,704,4.24,29
+15,2022,Tesla,Tesla Sedan M1,Sedan,LFP,81.5,544,40677,USA,North America,738,4.24,29
+16,2022,Tesla,Tesla Sedan M1,Sedan,LFP,81.5,544,40677,USA,Rest of World,198,4.24,28
+17,2023,Tesla,Tesla Sedan M1,Sedan,NMC,83.7,614,45735,USA,Asia-Pacific,1592,4.07,23
+18,2023,Tesla,Tesla Sedan M1,Sedan,NMC,83.7,614,45735,USA,Europe,711,4.07,36
+19,2023,Tesla,Tesla Sedan M1,Sedan,NMC,83.7,614,45735,USA,North America,879,4.07,33
+20,2023,Tesla,Tesla Sedan M1,Sedan,NMC,83.7,614,45735,USA,Rest of World,301,4.07,25
+21,2024,Tesla,Tesla Sedan M1,Sedan,NMC,86.0,620,42859,USA,Asia-Pacific,1407,4.35,23
+22,2024,Tesla,Tesla Sedan M1,Sedan,NMC,86.0,620,42859,USA,Europe,902,4.35,24
+23,2024,Tesla,Tesla Sedan M1,Sedan,NMC,86.0,620,42859,USA,North America,1161,4.35,19
+24,2024,Tesla,Tesla Sedan M1,Sedan,NMC,86.0,620,42859,USA,Rest of World,256,4.35,28
+25,2019,Tesla,Tesla SUV M1,SUV,NMC,71.1,434,56990,USA,Asia-Pacific,1167,4.31,34
+26,2019,Tesla,Tesla SUV M1,SUV,NMC,71.1,434,56990,USA,Europe,550,4.31,29
+27,2019,Tesla,Tesla SUV M1,SUV,NMC,71.1,434,56990,USA,North America,456,4.31,24
+28,2019,Tesla,Tesla SUV M1,SUV,NMC,71.1,434,56990,USA,Rest of World,214,4.31,29
+29,2020,Tesla,Tesla SUV M1,SUV,NMC,73.3,418,54176,USA,Asia-Pacific,1551,4.32,28
+30,2020,Tesla,Tesla SUV M1,SUV,NMC,73.3,418,54176,USA,Europe,1000,4.32,20
+31,2020,Tesla,Tesla SUV M1,SUV,NMC,73.3,418,54176,USA,North America,614,4.32,22
+32,2020,Tesla,Tesla SUV M1,SUV,NMC,73.3,418,54176,USA,Rest of World,379,4.32,33
+33,2021,Tesla,Tesla SUV M1,SUV,NMC,75.4,439,55888,USA,Asia-Pacific,2548,4.06,23
+34,2021,Tesla,Tesla SUV M1,SUV,NMC,75.4,439,55888,USA,Europe,1081,4.06,23
+35,2021,Tesla,Tesla SUV M1,SUV,NMC,75.4,439,55888,USA,North America,1368,4.06,34
+36,2021,Tesla,Tesla SUV M1,SUV,NMC,75.4,439,55888,USA,Rest of World,329,4.06,32
+37,2022,Tesla,Tesla SUV M1,SUV,NMC,77.6,445,52876,USA,Asia-Pacific,3445,4.17,29
+38,2022,Tesla,Tesla SUV M1,SUV,NMC,77.6,445,52876,USA,Europe,1820,4.17,38
+39,2022,Tesla,Tesla SUV M1,SUV,NMC,77.6,445,52876,USA,North America,1622,4.17,22
+40,2022,Tesla,Tesla SUV M1,SUV,NMC,77.6,445,52876,USA,Rest of World,513,4.17,29
+41,2023,Tesla,Tesla SUV M1,SUV,LFP,79.7,426,39647,USA,Asia-Pacific,4326,4.47,23
+42,2023,Tesla,Tesla SUV M1,SUV,LFP,79.7,426,39647,USA,Europe,2866,4.47,24
+43,2023,Tesla,Tesla SUV M1,SUV,LFP,79.7,426,39647,USA,North America,1824,4.47,31
+44,2023,Tesla,Tesla SUV M1,SUV,LFP,79.7,426,39647,USA,Rest of World,521,4.47,18
+45,2024,Tesla,Tesla SUV M1,SUV,LFP,81.8,470,37823,USA,Asia-Pacific,5518,4.6,28
+46,2024,Tesla,Tesla SUV M1,SUV,LFP,81.8,470,37823,USA,Europe,3215,4.6,13
+47,2024,Tesla,Tesla SUV M1,SUV,LFP,81.8,470,37823,USA,North America,2333,4.6,21
+48,2024,Tesla,Tesla SUV M1,SUV,LFP,81.8,470,37823,USA,Rest of World,998,4.6,22
+49,2019,Tesla,Tesla SUV M2,SUV,NCA,56.2,377,51054,USA,Asia-Pacific,946,3.92,29
+50,2019,Tesla,Tesla SUV M2,SUV,NCA,56.2,377,51054,USA,Europe,597,3.92,33
+51,2019,Tesla,Tesla SUV M2,SUV,NCA,56.2,377,51054,USA,North America,687,3.92,32
+52,2019,Tesla,Tesla SUV M2,SUV,NCA,56.2,377,51054,USA,Rest of World,168,3.92,29
+53,2020,Tesla,Tesla SUV M2,SUV,LFP,57.9,294,48201,USA,Asia-Pacific,2001,4.63,35
+54,2020,Tesla,Tesla SUV M2,SUV,LFP,57.9,294,48201,USA,Europe,826,4.63,36
+55,2020,Tesla,Tesla SUV M2,SUV,LFP,57.9,294,48201,USA,North America,714,4.63,29
+56,2020,Tesla,Tesla SUV M2,SUV,LFP,57.9,294,48201,USA,Rest of World,253,4.63,26
+57,2021,Tesla,Tesla SUV M2,SUV,LFP,59.6,303,45407,USA,Asia-Pacific,2785,3.78,39
+58,2021,Tesla,Tesla SUV M2,SUV,LFP,59.6,303,45407,USA,Europe,1546,3.78,28
+59,2021,Tesla,Tesla SUV M2,SUV,LFP,59.6,303,45407,USA,North America,1115,3.78,37
+60,2021,Tesla,Tesla SUV M2,SUV,LFP,59.6,303,45407,USA,Rest of World,466,3.78,27
+61,2022,Tesla,Tesla SUV M2,SUV,LFP,61.2,314,47447,USA,Asia-Pacific,3842,4.15,20
+62,2022,Tesla,Tesla SUV M2,SUV,LFP,61.2,314,47447,USA,Europe,1308,4.15,38
+63,2022,Tesla,Tesla SUV M2,SUV,LFP,61.2,314,47447,USA,North America,1178,4.15,26
+64,2022,Tesla,Tesla SUV M2,SUV,LFP,61.2,314,47447,USA,Rest of World,573,4.15,21
+65,2023,Tesla,Tesla SUV M2,SUV,LFP,62.9,361,48406,USA,Asia-Pacific,3232,4.1,29
+66,2023,Tesla,Tesla SUV M2,SUV,LFP,62.9,361,48406,USA,Europe,1913,4.1,27
+67,2023,Tesla,Tesla SUV M2,SUV,LFP,62.9,361,48406,USA,North America,2223,4.1,14
+68,2023,Tesla,Tesla SUV M2,SUV,LFP,62.9,361,48406,USA,Rest of World,733,4.1,22
+69,2024,Tesla,Tesla SUV M2,SUV,NMC,64.6,372,49165,USA,Asia-Pacific,6344,4.38,26
+70,2024,Tesla,Tesla SUV M2,SUV,NMC,64.6,372,49165,USA,Europe,2386,4.38,28
+71,2024,Tesla,Tesla SUV M2,SUV,NMC,64.6,372,49165,USA,North America,2546,4.38,24
+72,2024,Tesla,Tesla SUV M2,SUV,NMC,64.6,372,49165,USA,Rest of World,979,4.38,29
+73,2019,Tesla,Tesla Truck M1,Truck,NCA,193.0,307,163610,USA,Asia-Pacific,51,4.22,32
+74,2019,Tesla,Tesla Truck M1,Truck,NCA,193.0,307,163610,USA,Europe,35,4.22,47
+75,2019,Tesla,Tesla Truck M1,Truck,NCA,193.0,307,163610,USA,North America,34,4.22,26
+76,2019,Tesla,Tesla Truck M1,Truck,NCA,193.0,307,163610,USA,Rest of World,14,4.22,23
+77,2020,Tesla,Tesla Truck M1,Truck,NMC,198.8,302,134920,USA,Asia-Pacific,111,3.97,17
+78,2020,Tesla,Tesla Truck M1,Truck,NMC,198.8,302,134920,USA,Europe,53,3.97,24
+79,2020,Tesla,Tesla Truck M1,Truck,NMC,198.8,302,134920,USA,North America,56,3.97,44
+80,2020,Tesla,Tesla Truck M1,Truck,NMC,198.8,302,134920,USA,Rest of World,15,3.97,25
+81,2021,Tesla,Tesla Truck M1,Truck,NMC,204.5,357,143036,USA,Asia-Pacific,111,4.68,23
+82,2021,Tesla,Tesla Truck M1,Truck,NMC,204.5,357,143036,USA,Europe,87,4.68,47
+83,2021,Tesla,Tesla Truck M1,Truck,NMC,204.5,357,143036,USA,North America,47,4.68,27
+84,2021,Tesla,Tesla Truck M1,Truck,NMC,204.5,357,143036,USA,Rest of World,18,4.68,39
+85,2022,Tesla,Tesla Truck M1,Truck,LFP,210.3,297,142352,USA,Asia-Pacific,161,4.21,27
+86,2022,Tesla,Tesla Truck M1,Truck,LFP,210.3,297,142352,USA,Europe,79,4.21,26
+87,2022,Tesla,Tesla Truck M1,Truck,LFP,210.3,297,142352,USA,North America,66,4.21,29
+88,2022,Tesla,Tesla Truck M1,Truck,LFP,210.3,297,142352,USA,Rest of World,24,4.21,31
+89,2023,Tesla,Tesla Truck M1,Truck,NMC,216.1,350,130071,USA,Asia-Pacific,317,4.16,22
+90,2023,Tesla,Tesla Truck M1,Truck,NMC,216.1,350,130071,USA,Europe,104,4.16,26
+91,2023,Tesla,Tesla Truck M1,Truck,NMC,216.1,350,130071,USA,North America,107,4.16,36
+92,2023,Tesla,Tesla Truck M1,Truck,NMC,216.1,350,130071,USA,Rest of World,43,4.16,22
+93,2024,Tesla,Tesla Truck M1,Truck,LFP,221.9,334,109666,USA,Asia-Pacific,265,4.4,28
+94,2024,Tesla,Tesla Truck M1,Truck,LFP,221.9,334,109666,USA,Europe,153,4.4,31
+95,2024,Tesla,Tesla Truck M1,Truck,LFP,221.9,334,109666,USA,North America,220,4.4,19
+96,2024,Tesla,Tesla Truck M1,Truck,LFP,221.9,334,109666,USA,Rest of World,76,4.4,27
+97,2019,BYD,BYD Hatchback M1,Hatchback,NCA,46.1,349,23885,China,Asia-Pacific,1414,4.12,16
+98,2019,BYD,BYD Hatchback M1,Hatchback,NCA,46.1,349,23885,China,Europe,602,4.12,33
+99,2019,BYD,BYD Hatchback M1,Hatchback,NCA,46.1,349,23885,China,North America,489,4.12,29
+100,2019,BYD,BYD Hatchback M1,Hatchback,NCA,46.1,349,23885,China,Rest of World,204,4.12,33
+101,2020,BYD,BYD Hatchback M1,Hatchback,LFP,47.4,324,19467,China,Asia-Pacific,1404,3.92,24
+102,2020,BYD,BYD Hatchback M1,Hatchback,LFP,47.4,324,19467,China,Europe,738,3.92,38
+103,2020,BYD,BYD Hatchback M1,Hatchback,LFP,47.4,324,19467,China,North America,924,3.92,41
+104,2020,BYD,BYD Hatchback M1,Hatchback,LFP,47.4,324,19467,China,Rest of World,241,3.92,33
+105,2021,BYD,BYD Hatchback M1,Hatchback,NCA,48.8,402,23932,China,Asia-Pacific,2124,4.01,25
+106,2021,BYD,BYD Hatchback M1,Hatchback,NCA,48.8,402,23932,China,Europe,1247,4.01,22
+107,2021,BYD,BYD Hatchback M1,Hatchback,NCA,48.8,402,23932,China,North America,1074,4.01,28
+108,2021,BYD,BYD Hatchback M1,Hatchback,NCA,48.8,402,23932,China,Rest of World,373,4.01,34
+109,2022,BYD,BYD Hatchback M1,Hatchback,NMC,50.2,360,22769,China,Asia-Pacific,3262,4.03,25
+110,2022,BYD,BYD Hatchback M1,Hatchback,NMC,50.2,360,22769,China,Europe,1501,4.03,32
+111,2022,BYD,BYD Hatchback M1,Hatchback,NMC,50.2,360,22769,China,North America,1472,4.03,22
+112,2022,BYD,BYD Hatchback M1,Hatchback,NMC,50.2,360,22769,China,Rest of World,387,4.03,21
+113,2023,BYD,BYD Hatchback M1,Hatchback,LFP,51.6,367,16893,China,Asia-Pacific,3470,4.29,13
+114,2023,BYD,BYD Hatchback M1,Hatchback,LFP,51.6,367,16893,China,Europe,1872,4.29,27
+115,2023,BYD,BYD Hatchback M1,Hatchback,LFP,51.6,367,16893,China,North America,1917,4.29,36
+116,2023,BYD,BYD Hatchback M1,Hatchback,LFP,51.6,367,16893,China,Rest of World,626,4.29,23
+117,2024,BYD,BYD Hatchback M1,Hatchback,LFP,53.0,348,16023,China,Asia-Pacific,4112,4.09,22
+118,2024,BYD,BYD Hatchback M1,Hatchback,LFP,53.0,348,16023,China,Europe,2648,4.09,32
+119,2024,BYD,BYD Hatchback M1,Hatchback,LFP,53.0,348,16023,China,North America,2618,4.09,27
+120,2024,BYD,BYD Hatchback M1,Hatchback,LFP,53.0,348,16023,China,Rest of World,662,4.09,20
+121,2019,BYD,BYD Hatchback M2,Hatchback,LFP,37.9,250,22952,China,Asia-Pacific,1082,3.74,40
+122,2019,BYD,BYD Hatchback M2,Hatchback,LFP,37.9,250,22952,China,Europe,667,3.74,27
+123,2019,BYD,BYD Hatchback M2,Hatchback,LFP,37.9,250,22952,China,North America,664,3.74,37
+124,2019,BYD,BYD Hatchback M2,Hatchback,LFP,37.9,250,22952,China,Rest of World,191,3.74,39
+125,2020,BYD,BYD Hatchback M2,Hatchback,NMC,39.0,321,19838,China,Asia-Pacific,1638,4.63,18
+126,2020,BYD,BYD Hatchback M2,Hatchback,NMC,39.0,321,19838,China,Europe,885,4.63,28
+127,2020,BYD,BYD Hatchback M2,Hatchback,NMC,39.0,321,19838,China,North America,523,4.63,38
+128,2020,BYD,BYD Hatchback M2,Hatchback,NMC,39.0,321,19838,China,Rest of World,321,4.63,23
+129,2021,BYD,BYD Hatchback M2,Hatchback,NMC,40.1,305,20192,China,Asia-Pacific,2299,4.18,21
+130,2021,BYD,BYD Hatchback M2,Hatchback,NMC,40.1,305,20192,China,Europe,1419,4.18,29
+131,2021,BYD,BYD Hatchback M2,Hatchback,NMC,40.1,305,20192,China,North America,837,4.18,32
+132,2021,BYD,BYD Hatchback M2,Hatchback,NMC,40.1,305,20192,China,Rest of World,267,4.18,30
+133,2022,BYD,BYD Hatchback M2,Hatchback,LFP,41.3,307,16759,China,Asia-Pacific,2010,3.82,29
+134,2022,BYD,BYD Hatchback M2,Hatchback,LFP,41.3,307,16759,China,Europe,1163,3.82,26
+135,2022,BYD,BYD Hatchback M2,Hatchback,LFP,41.3,307,16759,China,North America,1367,3.82,26
+136,2022,BYD,BYD Hatchback M2,Hatchback,LFP,41.3,307,16759,China,Rest of World,319,3.82,33
+137,2023,BYD,BYD Hatchback M2,Hatchback,NMC,42.4,342,18690,China,Asia-Pacific,2442,3.47,31
+138,2023,BYD,BYD Hatchback M2,Hatchback,NMC,42.4,342,18690,China,Europe,2321,3.47,28
+139,2023,BYD,BYD Hatchback M2,Hatchback,NMC,42.4,342,18690,China,North America,1819,3.47,35
+140,2023,BYD,BYD Hatchback M2,Hatchback,NMC,42.4,342,18690,China,Rest of World,428,3.47,22
+141,2024,BYD,BYD Hatchback M2,Hatchback,LFP,43.5,304,18880,China,Asia-Pacific,5234,4.02,22
+142,2024,BYD,BYD Hatchback M2,Hatchback,LFP,43.5,304,18880,China,Europe,2739,4.02,20
+143,2024,BYD,BYD Hatchback M2,Hatchback,LFP,43.5,304,18880,China,North America,1822,4.02,30
+144,2024,BYD,BYD Hatchback M2,Hatchback,LFP,43.5,304,18880,China,Rest of World,990,4.02,17
+145,2019,BYD,BYD Sedan M1,Sedan,LFP,82.7,570,47577,China,Asia-Pacific,683,4.23,28
+146,2019,BYD,BYD Sedan M1,Sedan,LFP,82.7,570,47577,China,Europe,648,4.23,28
+147,2019,BYD,BYD Sedan M1,Sedan,LFP,82.7,570,47577,China,North America,518,4.23,30
+148,2019,BYD,BYD Sedan M1,Sedan,LFP,82.7,570,47577,China,Rest of World,167,4.23,34
+149,2020,BYD,BYD Sedan M1,Sedan,NCA,85.2,616,51063,China,Asia-Pacific,1184,4.35,37
+150,2020,BYD,BYD Sedan M1,Sedan,NCA,85.2,616,51063,China,Europe,476,4.35,30
+151,2020,BYD,BYD Sedan M1,Sedan,NCA,85.2,616,51063,China,North America,500,4.35,42
+152,2020,BYD,BYD Sedan M1,Sedan,NCA,85.2,616,51063,China,Rest of World,149,4.35,31
+153,2021,BYD,BYD Sedan M1,Sedan,LFP,87.7,552,41839,China,Asia-Pacific,1409,4.08,31
+154,2021,BYD,BYD Sedan M1,Sedan,LFP,87.7,552,41839,China,Europe,684,4.08,20
+155,2021,BYD,BYD Sedan M1,Sedan,LFP,87.7,552,41839,China,North America,671,4.08,22
+156,2021,BYD,BYD Sedan M1,Sedan,LFP,87.7,552,41839,China,Rest of World,167,4.08,27
+157,2022,BYD,BYD Sedan M1,Sedan,LFP,90.2,560,42041,China,Asia-Pacific,1754,4.09,26
+158,2022,BYD,BYD Sedan M1,Sedan,LFP,90.2,560,42041,China,Europe,948,4.09,32
+159,2022,BYD,BYD Sedan M1,Sedan,LFP,90.2,560,42041,China,North America,897,4.09,34
+160,2022,BYD,BYD Sedan M1,Sedan,LFP,90.2,560,42041,China,Rest of World,266,4.09,28
+161,2023,BYD,BYD Sedan M1,Sedan,LFP,92.7,603,42385,China,Asia-Pacific,2352,4.02,26
+162,2023,BYD,BYD Sedan M1,Sedan,LFP,92.7,603,42385,China,Europe,1055,4.02,22
+163,2023,BYD,BYD Sedan M1,Sedan,LFP,92.7,603,42385,China,North America,815,4.02,22
+164,2023,BYD,BYD Sedan M1,Sedan,LFP,92.7,603,42385,China,Rest of World,332,4.02,30
+165,2024,BYD,BYD Sedan M1,Sedan,LFP,95.1,651,34656,China,Asia-Pacific,2029,3.93,24
+166,2024,BYD,BYD Sedan M1,Sedan,LFP,95.1,651,34656,China,Europe,1112,3.93,15
+167,2024,BYD,BYD Sedan M1,Sedan,LFP,95.1,651,34656,China,North America,780,3.93,14
+168,2024,BYD,BYD Sedan M1,Sedan,LFP,95.1,651,34656,China,Rest of World,486,3.93,34
+169,2019,BYD,BYD Sedan M2,Sedan,NMC,61.9,415,47579,China,Asia-Pacific,1174,3.91,34
+170,2019,BYD,BYD Sedan M2,Sedan,NMC,61.9,415,47579,China,Europe,446,3.91,34
+171,2019,BYD,BYD Sedan M2,Sedan,NMC,61.9,415,47579,China,North America,497,3.91,30
+172,2019,BYD,BYD Sedan M2,Sedan,NMC,61.9,415,47579,China,Rest of World,174,3.91,31
+173,2020,BYD,BYD Sedan M2,Sedan,LFP,63.8,416,40305,China,Asia-Pacific,1306,3.83,40
+174,2020,BYD,BYD Sedan M2,Sedan,LFP,63.8,416,40305,China,Europe,624,3.83,25
+175,2020,BYD,BYD Sedan M2,Sedan,LFP,63.8,416,40305,China,North America,687,3.83,29
+176,2020,BYD,BYD Sedan M2,Sedan,LFP,63.8,416,40305,China,Rest of World,187,3.83,28
+177,2021,BYD,BYD Sedan M2,Sedan,LFP,65.6,443,41901,China,Asia-Pacific,1030,4.39,23
+178,2021,BYD,BYD Sedan M2,Sedan,LFP,65.6,443,41901,China,Europe,901,4.39,32
+179,2021,BYD,BYD Sedan M2,Sedan,LFP,65.6,443,41901,China,North America,535,4.39,33
+180,2021,BYD,BYD Sedan M2,Sedan,LFP,65.6,443,41901,China,Rest of World,230,4.39,36
+181,2022,BYD,BYD Sedan M2,Sedan,NMC,67.5,450,42096,China,Asia-Pacific,1694,3.84,27
+182,2022,BYD,BYD Sedan M2,Sedan,NMC,67.5,450,42096,China,Europe,958,3.84,27
+183,2022,BYD,BYD Sedan M2,Sedan,NMC,67.5,450,42096,China,North America,562,3.84,22
+184,2022,BYD,BYD Sedan M2,Sedan,NMC,67.5,450,42096,China,Rest of World,284,3.84,32
+185,2023,BYD,BYD Sedan M2,Sedan,NCA,69.3,516,48730,China,Asia-Pacific,1883,4.59,25
+186,2023,BYD,BYD Sedan M2,Sedan,NCA,69.3,516,48730,China,Europe,1097,4.59,21
+187,2023,BYD,BYD Sedan M2,Sedan,NCA,69.3,516,48730,China,North America,830,4.59,21
+188,2023,BYD,BYD Sedan M2,Sedan,NCA,69.3,516,48730,China,Rest of World,313,4.59,29
+189,2024,BYD,BYD Sedan M2,Sedan,NMC,71.2,482,40589,China,Asia-Pacific,1611,4.23,22
+190,2024,BYD,BYD Sedan M2,Sedan,NMC,71.2,482,40589,China,Europe,1213,4.23,27
+191,2024,BYD,BYD Sedan M2,Sedan,NMC,71.2,482,40589,China,North America,1166,4.23,25
+192,2024,BYD,BYD Sedan M2,Sedan,NMC,71.2,482,40589,China,Rest of World,347,4.23,20
+193,2019,BYD,BYD SUV M1,SUV,NCA,89.9,579,55657,China,Asia-Pacific,1767,4.02,17
+194,2019,BYD,BYD SUV M1,SUV,NCA,89.9,579,55657,China,Europe,1010,4.02,30
+195,2019,BYD,BYD SUV M1,SUV,NCA,89.9,579,55657,China,North America,848,4.02,36
+196,2019,BYD,BYD SUV M1,SUV,NCA,89.9,579,55657,China,Rest of World,288,4.02,24
+197,2020,BYD,BYD SUV M1,SUV,NMC,92.6,574,57625,China,Asia-Pacific,1677,3.74,41
+198,2020,BYD,BYD SUV M1,SUV,NMC,92.6,574,57625,China,Europe,1227,3.74,28
+199,2020,BYD,BYD SUV M1,SUV,NMC,92.6,574,57625,China,North America,727,3.74,23
+200,2020,BYD,BYD SUV M1,SUV,NMC,92.6,574,57625,China,Rest of World,398,3.74,27
+201,2021,BYD,BYD SUV M1,SUV,NCA,95.2,598,58795,China,Asia-Pacific,3050,4.21,37
+202,2021,BYD,BYD SUV M1,SUV,NCA,95.2,598,58795,China,Europe,1488,4.21,25
+203,2021,BYD,BYD SUV M1,SUV,NCA,95.2,598,58795,China,North America,1591,4.21,34
+204,2021,BYD,BYD SUV M1,SUV,NCA,95.2,598,58795,China,Rest of World,332,4.21,19
+205,2022,BYD,BYD SUV M1,SUV,LFP,97.9,504,46667,China,Asia-Pacific,4076,3.64,23
+206,2022,BYD,BYD SUV M1,SUV,LFP,97.9,504,46667,China,Europe,2224,3.64,32
+207,2022,BYD,BYD SUV M1,SUV,LFP,97.9,504,46667,China,North America,1248,3.64,24
+208,2022,BYD,BYD SUV M1,SUV,LFP,97.9,504,46667,China,Rest of World,668,3.64,25
+209,2023,BYD,BYD SUV M1,SUV,LFP,100.6,554,45288,China,Asia-Pacific,4447,4.12,24
+210,2023,BYD,BYD SUV M1,SUV,LFP,100.6,554,45288,China,Europe,2896,4.12,20
+211,2023,BYD,BYD SUV M1,SUV,LFP,100.6,554,45288,China,North America,2800,4.12,36
+212,2023,BYD,BYD SUV M1,SUV,LFP,100.6,554,45288,China,Rest of World,1018,4.12,24
+213,2024,BYD,BYD SUV M1,SUV,NMC,103.3,614,43256,China,Asia-Pacific,5185,4.0,29
+214,2024,BYD,BYD SUV M1,SUV,NMC,103.3,614,43256,China,Europe,3208,4.0,17
+215,2024,BYD,BYD SUV M1,SUV,NMC,103.3,614,43256,China,North America,3695,4.0,38
+216,2024,BYD,BYD SUV M1,SUV,NMC,103.3,614,43256,China,Rest of World,995,4.0,23
+217,2019,BYD,BYD Bus M1,Bus,NCA,286.2,407,308348,China,Asia-Pacific,56,4.12,43
+218,2019,BYD,BYD Bus M1,Bus,NCA,286.2,407,308348,China,Europe,19,4.12,42
+219,2019,BYD,BYD Bus M1,Bus,NCA,286.2,407,308348,China,North America,16,4.12,35
+220,2019,BYD,BYD Bus M1,Bus,NCA,286.2,407,308348,China,Rest of World,5,4.12,26
+221,2020,BYD,BYD Bus M1,Bus,NMC,294.8,379,272983,China,Asia-Pacific,66,3.63,25
+222,2020,BYD,BYD Bus M1,Bus,NMC,294.8,379,272983,China,Europe,28,3.63,30
+223,2020,BYD,BYD Bus M1,Bus,NMC,294.8,379,272983,China,North America,23,3.63,21
+224,2020,BYD,BYD Bus M1,Bus,NMC,294.8,379,272983,China,Rest of World,12,3.63,27
+225,2021,BYD,BYD Bus M1,Bus,NMC,303.4,406,280144,China,Asia-Pacific,62,3.87,34
+226,2021,BYD,BYD Bus M1,Bus,NMC,303.4,406,280144,China,Europe,32,3.87,43
+227,2021,BYD,BYD Bus M1,Bus,NMC,303.4,406,280144,China,North America,37,3.87,31
+228,2021,BYD,BYD Bus M1,Bus,NMC,303.4,406,280144,China,Rest of World,15,3.87,34
+229,2022,BYD,BYD Bus M1,Bus,LFP,312.0,404,251244,China,Asia-Pacific,77,3.89,33
+230,2022,BYD,BYD Bus M1,Bus,LFP,312.0,404,251244,China,Europe,40,3.89,25
+231,2022,BYD,BYD Bus M1,Bus,LFP,312.0,404,251244,China,North America,59,3.89,30
+232,2022,BYD,BYD Bus M1,Bus,LFP,312.0,404,251244,China,Rest of World,16,3.89,34
+233,2023,BYD,BYD Bus M1,Bus,Sodium-Ion,320.6,306,191793,China,Asia-Pacific,89,3.37,21
+234,2023,BYD,BYD Bus M1,Bus,Sodium-Ion,320.6,306,191793,China,Europe,68,3.37,33
+235,2023,BYD,BYD Bus M1,Bus,Sodium-Ion,320.6,306,191793,China,North America,43,3.37,21
+236,2023,BYD,BYD Bus M1,Bus,Sodium-Ion,320.6,306,191793,China,Rest of World,20,3.37,33
+237,2024,BYD,BYD Bus M1,Bus,NMC,329.2,414,234558,China,Asia-Pacific,147,3.99,25
+238,2024,BYD,BYD Bus M1,Bus,NMC,329.2,414,234558,China,Europe,66,3.99,19
+239,2024,BYD,BYD Bus M1,Bus,NMC,329.2,414,234558,China,North America,53,3.99,24
+240,2024,BYD,BYD Bus M1,Bus,NMC,329.2,414,234558,China,Rest of World,27,3.99,16
+241,2019,BYD,BYD Bus M2,Bus,NCA,264.7,385,283735,China,Asia-Pacific,38,4.36,23
+242,2019,BYD,BYD Bus M2,Bus,NCA,264.7,385,283735,China,Europe,27,4.36,40
+243,2019,BYD,BYD Bus M2,Bus,NCA,264.7,385,283735,China,North America,19,4.36,36
+244,2019,BYD,BYD Bus M2,Bus,NCA,264.7,385,283735,China,Rest of World,5,4.36,25
+245,2020,BYD,BYD Bus M2,Bus,NMC,272.6,339,247656,China,Asia-Pacific,72,4.0,31
+246,2020,BYD,BYD Bus M2,Bus,NMC,272.6,339,247656,China,Europe,26,4.0,35
+247,2020,BYD,BYD Bus M2,Bus,NMC,272.6,339,247656,China,North America,21,4.0,17
+248,2020,BYD,BYD Bus M2,Bus,NMC,272.6,339,247656,China,Rest of World,8,4.0,37
+249,2021,BYD,BYD Bus M2,Bus,NMC,280.6,391,237419,China,Asia-Pacific,79,4.28,32
+250,2021,BYD,BYD Bus M2,Bus,NMC,280.6,391,237419,China,Europe,47,4.28,24
+251,2021,BYD,BYD Bus M2,Bus,NMC,280.6,391,237419,China,North America,30,4.28,27
+252,2021,BYD,BYD Bus M2,Bus,NMC,280.6,391,237419,China,Rest of World,12,4.28,41
+253,2022,BYD,BYD Bus M2,Bus,NCA,288.5,389,296041,China,Asia-Pacific,112,4.29,31
+254,2022,BYD,BYD Bus M2,Bus,NCA,288.5,389,296041,China,Europe,43,4.29,32
+255,2022,BYD,BYD Bus M2,Bus,NCA,288.5,389,296041,China,North America,41,4.29,32
+256,2022,BYD,BYD Bus M2,Bus,NCA,288.5,389,296041,China,Rest of World,12,4.29,17
+257,2023,BYD,BYD Bus M2,Bus,LFP,296.5,336,246591,China,Asia-Pacific,138,4.42,35
+258,2023,BYD,BYD Bus M2,Bus,LFP,296.5,336,246591,China,Europe,83,4.42,35
+259,2023,BYD,BYD Bus M2,Bus,LFP,296.5,336,246591,China,North America,46,4.42,28
+260,2023,BYD,BYD Bus M2,Bus,LFP,296.5,336,246591,China,Rest of World,24,4.42,29
+261,2024,BYD,BYD Bus M2,Bus,LFP,304.4,394,199310,China,Asia-Pacific,201,3.98,31
+262,2024,BYD,BYD Bus M2,Bus,LFP,304.4,394,199310,China,Europe,67,3.98,27
+263,2024,BYD,BYD Bus M2,Bus,LFP,304.4,394,199310,China,North America,93,3.98,24
+264,2024,BYD,BYD Bus M2,Bus,LFP,304.4,394,199310,China,Rest of World,29,3.98,25
+265,2019,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,31.3,233,23449,India,Asia-Pacific,395,3.5,37
+266,2019,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,31.3,233,23449,India,Europe,259,3.5,38
+267,2019,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,31.3,233,23449,India,North America,232,3.5,26
+268,2019,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,31.3,233,23449,India,Rest of World,102,3.5,34
+269,2020,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,32.2,256,22230,India,Asia-Pacific,933,3.92,28
+270,2020,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,32.2,256,22230,India,Europe,405,3.92,29
+271,2020,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,32.2,256,22230,India,North America,416,3.92,32
+272,2020,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,32.2,256,22230,India,Rest of World,121,3.92,27
+273,2021,Tata Motors,Tata Motors Hatchback M1,Hatchback,NCA,33.1,261,23270,India,Asia-Pacific,1201,4.05,26
+274,2021,Tata Motors,Tata Motors Hatchback M1,Hatchback,NCA,33.1,261,23270,India,Europe,428,4.05,22
+275,2021,Tata Motors,Tata Motors Hatchback M1,Hatchback,NCA,33.1,261,23270,India,North America,451,4.05,18
+276,2021,Tata Motors,Tata Motors Hatchback M1,Hatchback,NCA,33.1,261,23270,India,Rest of World,205,4.05,29
+277,2022,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,34.1,272,21741,India,Asia-Pacific,1274,4.05,21
+278,2022,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,34.1,272,21741,India,Europe,844,4.05,23
+279,2022,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,34.1,272,21741,India,North America,705,4.05,26
+280,2022,Tata Motors,Tata Motors Hatchback M1,Hatchback,NMC,34.1,272,21741,India,Rest of World,178,4.05,39
+281,2023,Tata Motors,Tata Motors Hatchback M1,Hatchback,LFP,35.0,263,17815,India,Asia-Pacific,1960,4.34,27
+282,2023,Tata Motors,Tata Motors Hatchback M1,Hatchback,LFP,35.0,263,17815,India,Europe,787,4.34,46
+283,2023,Tata Motors,Tata Motors Hatchback M1,Hatchback,LFP,35.0,263,17815,India,North America,815,4.34,22
+284,2023,Tata Motors,Tata Motors Hatchback M1,Hatchback,LFP,35.0,263,17815,India,Rest of World,300,4.34,25
+285,2024,Tata Motors,Tata Motors Hatchback M1,Hatchback,LFP,36.0,239,17281,India,Asia-Pacific,1609,3.97,28
+286,2024,Tata Motors,Tata Motors Hatchback M1,Hatchback,LFP,36.0,239,17281,India,Europe,1275,3.97,14
+287,2024,Tata Motors,Tata Motors Hatchback M1,Hatchback,LFP,36.0,239,17281,India,North America,1286,3.97,20
+288,2024,Tata Motors,Tata Motors Hatchback M1,Hatchback,LFP,36.0,239,17281,India,Rest of World,279,3.97,25
+289,2019,Tata Motors,Tata Motors SUV M1,SUV,LFP,70.3,367,49299,India,Asia-Pacific,582,3.75,33
+290,2019,Tata Motors,Tata Motors SUV M1,SUV,LFP,70.3,367,49299,India,Europe,373,3.75,36
+291,2019,Tata Motors,Tata Motors SUV M1,SUV,LFP,70.3,367,49299,India,North America,363,3.75,20
+292,2019,Tata Motors,Tata Motors SUV M1,SUV,LFP,70.3,367,49299,India,Rest of World,92,3.75,31
+293,2020,Tata Motors,Tata Motors SUV M1,SUV,LFP,72.4,415,51935,India,Asia-Pacific,1185,3.96,24
+294,2020,Tata Motors,Tata Motors SUV M1,SUV,LFP,72.4,415,51935,India,Europe,649,3.96,24
+295,2020,Tata Motors,Tata Motors SUV M1,SUV,LFP,72.4,415,51935,India,North America,351,3.96,38
+296,2020,Tata Motors,Tata Motors SUV M1,SUV,LFP,72.4,415,51935,India,Rest of World,168,3.96,15
+297,2021,Tata Motors,Tata Motors SUV M1,SUV,NCA,74.5,480,53201,India,Asia-Pacific,1056,3.88,27
+298,2021,Tata Motors,Tata Motors SUV M1,SUV,NCA,74.5,480,53201,India,Europe,834,3.88,25
+299,2021,Tata Motors,Tata Motors SUV M1,SUV,NCA,74.5,480,53201,India,North America,691,3.88,32
+300,2021,Tata Motors,Tata Motors SUV M1,SUV,NCA,74.5,480,53201,India,Rest of World,203,3.88,31
+301,2022,Tata Motors,Tata Motors SUV M1,SUV,NMC,76.6,483,45166,India,Asia-Pacific,1293,3.79,27
+302,2022,Tata Motors,Tata Motors SUV M1,SUV,NMC,76.6,483,45166,India,Europe,707,3.79,28
+303,2022,Tata Motors,Tata Motors SUV M1,SUV,NMC,76.6,483,45166,India,North America,988,3.79,23
+304,2022,Tata Motors,Tata Motors SUV M1,SUV,NMC,76.6,483,45166,India,Rest of World,282,3.79,31
+305,2023,Tata Motors,Tata Motors SUV M1,SUV,LFP,78.7,447,47131,India,Asia-Pacific,2302,4.26,35
+306,2023,Tata Motors,Tata Motors SUV M1,SUV,LFP,78.7,447,47131,India,Europe,1063,4.26,25
+307,2023,Tata Motors,Tata Motors SUV M1,SUV,LFP,78.7,447,47131,India,North America,1397,4.26,27
+308,2023,Tata Motors,Tata Motors SUV M1,SUV,LFP,78.7,447,47131,India,Rest of World,468,4.26,26
+309,2024,Tata Motors,Tata Motors SUV M1,SUV,LFP,80.8,446,42484,India,Asia-Pacific,2377,3.84,26
+310,2024,Tata Motors,Tata Motors SUV M1,SUV,LFP,80.8,446,42484,India,Europe,2155,3.84,32
+311,2024,Tata Motors,Tata Motors SUV M1,SUV,LFP,80.8,446,42484,India,North America,1897,3.84,27
+312,2024,Tata Motors,Tata Motors SUV M1,SUV,LFP,80.8,446,42484,India,Rest of World,560,3.84,19
+313,2019,Tata Motors,Tata Motors SUV M2,SUV,LFP,68.9,355,54021,India,Asia-Pacific,724,4.12,39
+314,2019,Tata Motors,Tata Motors SUV M2,SUV,LFP,68.9,355,54021,India,Europe,355,4.12,29
+315,2019,Tata Motors,Tata Motors SUV M2,SUV,LFP,68.9,355,54021,India,North America,270,4.12,14
+316,2019,Tata Motors,Tata Motors SUV M2,SUV,LFP,68.9,355,54021,India,Rest of World,144,4.12,12
+317,2020,Tata Motors,Tata Motors SUV M2,SUV,NMC,71.0,405,57005,India,Asia-Pacific,670,3.66,39
+318,2020,Tata Motors,Tata Motors SUV M2,SUV,NMC,71.0,405,57005,India,Europe,600,3.66,44
+319,2020,Tata Motors,Tata Motors SUV M2,SUV,NMC,71.0,405,57005,India,North America,516,3.66,33
+320,2020,Tata Motors,Tata Motors SUV M2,SUV,NMC,71.0,405,57005,India,Rest of World,135,3.66,31
+321,2021,Tata Motors,Tata Motors SUV M2,SUV,NMC,73.1,452,44062,India,Asia-Pacific,1077,3.61,25
+322,2021,Tata Motors,Tata Motors SUV M2,SUV,NMC,73.1,452,44062,India,Europe,671,3.61,29
+323,2021,Tata Motors,Tata Motors SUV M2,SUV,NMC,73.1,452,44062,India,North America,479,3.61,28
+324,2021,Tata Motors,Tata Motors SUV M2,SUV,NMC,73.1,452,44062,India,Rest of World,206,3.61,33
+325,2022,Tata Motors,Tata Motors SUV M2,SUV,LFP,75.1,427,44329,India,Asia-Pacific,1774,3.8,31
+326,2022,Tata Motors,Tata Motors SUV M2,SUV,LFP,75.1,427,44329,India,Europe,1181,3.8,19
+327,2022,Tata Motors,Tata Motors SUV M2,SUV,LFP,75.1,427,44329,India,North America,660,3.8,32
+328,2022,Tata Motors,Tata Motors SUV M2,SUV,LFP,75.1,427,44329,India,Rest of World,359,3.8,32
+329,2023,Tata Motors,Tata Motors SUV M2,SUV,LFP,77.2,451,46054,India,Asia-Pacific,2303,4.05,24
+330,2023,Tata Motors,Tata Motors SUV M2,SUV,LFP,77.2,451,46054,India,Europe,1107,4.05,36
+331,2023,Tata Motors,Tata Motors SUV M2,SUV,LFP,77.2,451,46054,India,North America,1016,4.05,35
+332,2023,Tata Motors,Tata Motors SUV M2,SUV,LFP,77.2,451,46054,India,Rest of World,378,4.05,29
+333,2024,Tata Motors,Tata Motors SUV M2,SUV,NMC,79.3,480,50315,India,Asia-Pacific,3321,4.16,21
+334,2024,Tata Motors,Tata Motors SUV M2,SUV,NMC,79.3,480,50315,India,Europe,1602,4.16,29
+335,2024,Tata Motors,Tata Motors SUV M2,SUV,NMC,79.3,480,50315,India,North America,1157,4.16,28
+336,2024,Tata Motors,Tata Motors SUV M2,SUV,NMC,79.3,480,50315,India,Rest of World,597,4.16,23
+337,2019,Tata Motors,Tata Motors Bus M1,Bus,LFP,299.4,349,244578,India,Asia-Pacific,26,3.77,25
+338,2019,Tata Motors,Tata Motors Bus M1,Bus,LFP,299.4,349,244578,India,Europe,13,3.77,32
+339,2019,Tata Motors,Tata Motors Bus M1,Bus,LFP,299.4,349,244578,India,North America,9,3.77,29
+340,2019,Tata Motors,Tata Motors Bus M1,Bus,LFP,299.4,349,244578,India,Rest of World,3,3.77,34
+341,2020,Tata Motors,Tata Motors Bus M1,Bus,NCA,308.4,405,295309,India,Asia-Pacific,35,3.45,17
+342,2020,Tata Motors,Tata Motors Bus M1,Bus,NCA,308.4,405,295309,India,Europe,13,3.45,30
+343,2020,Tata Motors,Tata Motors Bus M1,Bus,NCA,308.4,405,295309,India,North America,12,3.45,37
+344,2020,Tata Motors,Tata Motors Bus M1,Bus,NCA,308.4,405,295309,India,Rest of World,4,3.45,27
+345,2021,Tata Motors,Tata Motors Bus M1,Bus,LFP,317.4,374,271164,India,Asia-Pacific,34,4.15,34
+346,2021,Tata Motors,Tata Motors Bus M1,Bus,LFP,317.4,374,271164,India,Europe,23,4.15,23
+347,2021,Tata Motors,Tata Motors Bus M1,Bus,LFP,317.4,374,271164,India,North America,17,4.15,33
+348,2021,Tata Motors,Tata Motors Bus M1,Bus,LFP,317.4,374,271164,India,Rest of World,6,4.15,25
+349,2022,Tata Motors,Tata Motors Bus M1,Bus,LFP,326.4,417,265895,India,Asia-Pacific,58,3.66,20
+350,2022,Tata Motors,Tata Motors Bus M1,Bus,LFP,326.4,417,265895,India,Europe,29,3.66,29
+351,2022,Tata Motors,Tata Motors Bus M1,Bus,LFP,326.4,417,265895,India,North America,21,3.66,20
+352,2022,Tata Motors,Tata Motors Bus M1,Bus,LFP,326.4,417,265895,India,Rest of World,6,3.66,29
+353,2023,Tata Motors,Tata Motors Bus M1,Bus,LFP,335.4,386,238653,India,Asia-Pacific,48,3.86,24
+354,2023,Tata Motors,Tata Motors Bus M1,Bus,LFP,335.4,386,238653,India,Europe,39,3.86,23
+355,2023,Tata Motors,Tata Motors Bus M1,Bus,LFP,335.4,386,238653,India,North America,20,3.86,20
+356,2023,Tata Motors,Tata Motors Bus M1,Bus,LFP,335.4,386,238653,India,Rest of World,12,3.86,35
+357,2024,Tata Motors,Tata Motors Bus M1,Bus,LFP,344.4,431,205487,India,Asia-Pacific,96,3.84,20
+358,2024,Tata Motors,Tata Motors Bus M1,Bus,LFP,344.4,431,205487,India,Europe,32,3.84,33
+359,2024,Tata Motors,Tata Motors Bus M1,Bus,LFP,344.4,431,205487,India,North America,38,3.84,22
+360,2024,Tata Motors,Tata Motors Bus M1,Bus,LFP,344.4,431,205487,India,Rest of World,17,3.84,27
+361,2019,Tata Motors,Tata Motors Bus M2,Bus,NCA,220.7,293,329636,India,Asia-Pacific,16,3.88,22
+362,2019,Tata Motors,Tata Motors Bus M2,Bus,NCA,220.7,293,329636,India,Europe,9,3.88,30
+363,2019,Tata Motors,Tata Motors Bus M2,Bus,NCA,220.7,293,329636,India,North America,10,3.88,32
+364,2019,Tata Motors,Tata Motors Bus M2,Bus,NCA,220.7,293,329636,India,Rest of World,4,3.88,33
+365,2020,Tata Motors,Tata Motors Bus M2,Bus,NCA,227.3,338,293482,India,Asia-Pacific,31,4.37,36
+366,2020,Tata Motors,Tata Motors Bus M2,Bus,NCA,227.3,338,293482,India,Europe,13,4.37,37
+367,2020,Tata Motors,Tata Motors Bus M2,Bus,NCA,227.3,338,293482,India,North America,12,4.37,34
+368,2020,Tata Motors,Tata Motors Bus M2,Bus,NCA,227.3,338,293482,India,Rest of World,5,4.37,24
+369,2021,Tata Motors,Tata Motors Bus M2,Bus,NMC,233.9,325,291195,India,Asia-Pacific,31,4.28,38
+370,2021,Tata Motors,Tata Motors Bus M2,Bus,NMC,233.9,325,291195,India,Europe,23,4.28,22
+371,2021,Tata Motors,Tata Motors Bus M2,Bus,NMC,233.9,325,291195,India,North America,21,4.28,30
+372,2021,Tata Motors,Tata Motors Bus M2,Bus,NMC,233.9,325,291195,India,Rest of World,7,4.28,36
+373,2022,Tata Motors,Tata Motors Bus M2,Bus,LFP,240.6,290,215562,India,Asia-Pacific,31,4.01,23
+374,2022,Tata Motors,Tata Motors Bus M2,Bus,LFP,240.6,290,215562,India,Europe,29,4.01,27
+375,2022,Tata Motors,Tata Motors Bus M2,Bus,LFP,240.6,290,215562,India,North America,24,4.01,39
+376,2022,Tata Motors,Tata Motors Bus M2,Bus,LFP,240.6,290,215562,India,Rest of World,6,4.01,26
+377,2023,Tata Motors,Tata Motors Bus M2,Bus,NCA,247.2,358,269316,India,Asia-Pacific,43,3.81,26
+378,2023,Tata Motors,Tata Motors Bus M2,Bus,NCA,247.2,358,269316,India,Europe,36,3.81,27
+379,2023,Tata Motors,Tata Motors Bus M2,Bus,NCA,247.2,358,269316,India,North America,32,3.81,26
+380,2023,Tata Motors,Tata Motors Bus M2,Bus,NCA,247.2,358,269316,India,Rest of World,11,3.81,37
+381,2024,Tata Motors,Tata Motors Bus M2,Bus,LFP,253.8,290,210612,India,Asia-Pacific,57,3.9,28
+382,2024,Tata Motors,Tata Motors Bus M2,Bus,LFP,253.8,290,210612,India,Europe,33,3.9,32
+383,2024,Tata Motors,Tata Motors Bus M2,Bus,LFP,253.8,290,210612,India,North America,43,3.9,27
+384,2024,Tata Motors,Tata Motors Bus M2,Bus,LFP,253.8,290,210612,India,Rest of World,17,3.9,27
+385,2019,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,41.2,336,25165,China,Asia-Pacific,371,3.29,24
+386,2019,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,41.2,336,25165,China,Europe,276,3.29,30
+387,2019,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,41.2,336,25165,China,North America,254,3.29,26
+388,2019,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,41.2,336,25165,China,Rest of World,83,3.29,46
+389,2020,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,42.5,302,19469,China,Asia-Pacific,587,3.61,30
+390,2020,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,42.5,302,19469,China,Europe,313,3.61,30
+391,2020,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,42.5,302,19469,China,North America,346,3.61,26
+392,2020,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,42.5,302,19469,China,Rest of World,98,3.61,32
+393,2021,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,43.7,326,21548,China,Asia-Pacific,569,3.7,29
+394,2021,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,43.7,326,21548,China,Europe,353,3.7,27
+395,2021,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,43.7,326,21548,China,North America,409,3.7,33
+396,2021,MG Motor,MG Motor Hatchback M1,Hatchback,NMC,43.7,326,21548,China,Rest of World,168,3.7,38
+397,2022,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,44.9,336,16899,China,Asia-Pacific,1052,4.33,21
+398,2022,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,44.9,336,16899,China,Europe,616,4.33,37
+399,2022,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,44.9,336,16899,China,North America,371,4.33,20
+400,2022,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,44.9,336,16899,China,Rest of World,169,4.33,30
+401,2023,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,46.2,342,17561,China,Asia-Pacific,954,3.67,40
+402,2023,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,46.2,342,17561,China,Europe,620,3.67,32
+403,2023,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,46.2,342,17561,China,North America,523,3.67,26
+404,2023,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,46.2,342,17561,China,Rest of World,290,3.67,12
+405,2024,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,47.4,311,18334,China,Asia-Pacific,2049,3.55,25
+406,2024,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,47.4,311,18334,China,Europe,1120,3.55,28
+407,2024,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,47.4,311,18334,China,North America,1073,3.55,20
+408,2024,MG Motor,MG Motor Hatchback M1,Hatchback,LFP,47.4,311,18334,China,Rest of World,282,3.55,30
+409,2019,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,53.7,433,20736,China,Asia-Pacific,455,3.62,32
+410,2019,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,53.7,433,20736,China,Europe,237,3.62,27
+411,2019,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,53.7,433,20736,China,North America,173,3.62,35
+412,2019,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,53.7,433,20736,China,Rest of World,66,3.62,41
+413,2020,MG Motor,MG Motor Hatchback M2,Hatchback,NCA,55.3,451,22175,China,Asia-Pacific,567,3.8,31
+414,2020,MG Motor,MG Motor Hatchback M2,Hatchback,NCA,55.3,451,22175,China,Europe,413,3.8,19
+415,2020,MG Motor,MG Motor Hatchback M2,Hatchback,NCA,55.3,451,22175,China,North America,270,3.8,21
+416,2020,MG Motor,MG Motor Hatchback M2,Hatchback,NCA,55.3,451,22175,China,Rest of World,102,3.8,39
+417,2021,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,56.9,449,21498,China,Asia-Pacific,698,3.74,29
+418,2021,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,56.9,449,21498,China,Europe,323,3.74,26
+419,2021,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,56.9,449,21498,China,North America,426,3.74,30
+420,2021,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,56.9,449,21498,China,Rest of World,113,3.74,26
+421,2022,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,58.6,433,22221,China,Asia-Pacific,1059,4.07,31
+422,2022,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,58.6,433,22221,China,Europe,406,4.07,37
+423,2022,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,58.6,433,22221,China,North America,457,4.07,30
+424,2022,MG Motor,MG Motor Hatchback M2,Hatchback,NMC,58.6,433,22221,China,Rest of World,186,4.07,28
+425,2023,MG Motor,MG Motor Hatchback M2,Hatchback,LFP,60.2,433,18647,China,Asia-Pacific,1491,3.8,14
+426,2023,MG Motor,MG Motor Hatchback M2,Hatchback,LFP,60.2,433,18647,China,Europe,721,3.8,31
+427,2023,MG Motor,MG Motor Hatchback M2,Hatchback,LFP,60.2,433,18647,China,North America,447,3.8,28
+428,2023,MG Motor,MG Motor Hatchback M2,Hatchback,LFP,60.2,433,18647,China,Rest of World,207,3.8,27
+429,2024,MG Motor,MG Motor Hatchback M2,Hatchback,LFP,61.8,437,16817,China,Asia-Pacific,1970,3.74,13
+430,2024,MG Motor,MG Motor Hatchback M2,Hatchback,LFP,61.8,437,16817,China,Europe,960,3.74,31
+431,2024,MG Motor,MG Motor Hatchback M2,Hatchback,LFP,61.8,437,16817,China,North America,1057,3.74,22
+432,2024,MG Motor,MG Motor Hatchback M2,Hatchback,LFP,61.8,437,16817,China,Rest of World,244,3.74,20
+433,2019,MG Motor,MG Motor SUV M1,SUV,NMC,103.3,585,57342,China,Asia-Pacific,578,4.09,17
+434,2019,MG Motor,MG Motor SUV M1,SUV,NMC,103.3,585,57342,China,Europe,329,4.09,39
+435,2019,MG Motor,MG Motor SUV M1,SUV,NMC,103.3,585,57342,China,North America,251,4.09,29
+436,2019,MG Motor,MG Motor SUV M1,SUV,NMC,103.3,585,57342,China,Rest of World,76,4.09,36
+437,2020,MG Motor,MG Motor SUV M1,SUV,NCA,106.4,649,51688,China,Asia-Pacific,537,4.39,33
+438,2020,MG Motor,MG Motor SUV M1,SUV,NCA,106.4,649,51688,China,Europe,408,4.39,37
+439,2020,MG Motor,MG Motor SUV M1,SUV,NCA,106.4,649,51688,China,North America,293,4.39,27
+440,2020,MG Motor,MG Motor SUV M1,SUV,NCA,106.4,649,51688,China,Rest of World,123,4.39,21
+441,2021,MG Motor,MG Motor SUV M1,SUV,LFP,109.5,598,46388,China,Asia-Pacific,795,3.45,34
+442,2021,MG Motor,MG Motor SUV M1,SUV,LFP,109.5,598,46388,China,Europe,511,3.45,23
+443,2021,MG Motor,MG Motor SUV M1,SUV,LFP,109.5,598,46388,China,North America,629,3.45,31
+444,2021,MG Motor,MG Motor SUV M1,SUV,LFP,109.5,598,46388,China,Rest of World,213,3.45,40
+445,2022,MG Motor,MG Motor SUV M1,SUV,LFP,112.6,634,48807,China,Asia-Pacific,1311,3.8,30
+446,2022,MG Motor,MG Motor SUV M1,SUV,LFP,112.6,634,48807,China,Europe,549,3.8,25
+447,2022,MG Motor,MG Motor SUV M1,SUV,LFP,112.6,634,48807,China,North America,868,3.8,42
+448,2022,MG Motor,MG Motor SUV M1,SUV,LFP,112.6,634,48807,China,Rest of World,176,3.8,24
+449,2023,MG Motor,MG Motor SUV M1,SUV,LFP,115.7,677,38594,China,Asia-Pacific,2224,3.99,29
+450,2023,MG Motor,MG Motor SUV M1,SUV,LFP,115.7,677,38594,China,Europe,1233,3.99,29
+451,2023,MG Motor,MG Motor SUV M1,SUV,LFP,115.7,677,38594,China,North America,923,3.99,24
+452,2023,MG Motor,MG Motor SUV M1,SUV,LFP,115.7,677,38594,China,Rest of World,342,3.99,25
+453,2024,MG Motor,MG Motor SUV M1,SUV,LFP,118.8,607,46923,China,Asia-Pacific,2031,4.07,28
+454,2024,MG Motor,MG Motor SUV M1,SUV,LFP,118.8,607,46923,China,Europe,1773,4.07,33
+455,2024,MG Motor,MG Motor SUV M1,SUV,LFP,118.8,607,46923,China,North America,1489,4.07,31
+456,2024,MG Motor,MG Motor SUV M1,SUV,LFP,118.8,607,46923,China,Rest of World,531,4.07,30
+457,2019,MG Motor,MG Motor SUV M2,SUV,NCA,101.3,602,60002,China,Asia-Pacific,571,4.07,33
+458,2019,MG Motor,MG Motor SUV M2,SUV,NCA,101.3,602,60002,China,Europe,396,4.07,39
+459,2019,MG Motor,MG Motor SUV M2,SUV,NCA,101.3,602,60002,China,North America,269,4.07,30
+460,2019,MG Motor,MG Motor SUV M2,SUV,NCA,101.3,602,60002,China,Rest of World,92,4.07,21
+461,2020,MG Motor,MG Motor SUV M2,SUV,NMC,104.4,590,46372,China,Asia-Pacific,727,3.98,26
+462,2020,MG Motor,MG Motor SUV M2,SUV,NMC,104.4,590,46372,China,Europe,445,3.98,27
+463,2020,MG Motor,MG Motor SUV M2,SUV,NMC,104.4,590,46372,China,North America,292,3.98,19
+464,2020,MG Motor,MG Motor SUV M2,SUV,NMC,104.4,590,46372,China,Rest of World,171,3.98,34
+465,2021,MG Motor,MG Motor SUV M2,SUV,NMC,107.4,695,55986,China,Asia-Pacific,740,4.2,28
+466,2021,MG Motor,MG Motor SUV M2,SUV,NMC,107.4,695,55986,China,Europe,416,4.2,26
+467,2021,MG Motor,MG Motor SUV M2,SUV,NMC,107.4,695,55986,China,North America,516,4.2,31
+468,2021,MG Motor,MG Motor SUV M2,SUV,NMC,107.4,695,55986,China,Rest of World,184,4.2,29
+469,2022,MG Motor,MG Motor SUV M2,SUV,LFP,110.4,636,46039,China,Asia-Pacific,1739,3.46,36
+470,2022,MG Motor,MG Motor SUV M2,SUV,LFP,110.4,636,46039,China,Europe,574,3.46,41
+471,2022,MG Motor,MG Motor SUV M2,SUV,LFP,110.4,636,46039,China,North America,644,3.46,34
+472,2022,MG Motor,MG Motor SUV M2,SUV,LFP,110.4,636,46039,China,Rest of World,225,3.46,27
+473,2023,MG Motor,MG Motor SUV M2,SUV,NMC,113.5,651,45122,China,Asia-Pacific,2041,3.95,32
+474,2023,MG Motor,MG Motor SUV M2,SUV,NMC,113.5,651,45122,China,Europe,860,3.95,31
+475,2023,MG Motor,MG Motor SUV M2,SUV,NMC,113.5,651,45122,China,North America,724,3.95,25
+476,2023,MG Motor,MG Motor SUV M2,SUV,NMC,113.5,651,45122,China,Rest of World,267,3.95,21
+477,2024,MG Motor,MG Motor SUV M2,SUV,LFP,116.5,642,42193,China,Asia-Pacific,3238,3.74,18
+478,2024,MG Motor,MG Motor SUV M2,SUV,LFP,116.5,642,42193,China,Europe,1368,3.74,22
+479,2024,MG Motor,MG Motor SUV M2,SUV,LFP,116.5,642,42193,China,North America,903,3.74,17
+480,2024,MG Motor,MG Motor SUV M2,SUV,LFP,116.5,642,42193,China,Rest of World,371,3.74,25
+481,2019,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,54.5,446,22415,South Korea,Asia-Pacific,604,3.92,31
+482,2019,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,54.5,446,22415,South Korea,Europe,328,3.92,40
+483,2019,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,54.5,446,22415,South Korea,North America,267,3.92,45
+484,2019,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,54.5,446,22415,South Korea,Rest of World,97,3.92,42
+485,2020,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,56.2,444,24330,South Korea,Asia-Pacific,628,3.79,36
+486,2020,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,56.2,444,24330,South Korea,Europe,366,3.79,23
+487,2020,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,56.2,444,24330,South Korea,North America,313,3.79,22
+488,2020,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,56.2,444,24330,South Korea,Rest of World,134,3.79,31
+489,2021,Hyundai,Hyundai Hatchback M1,Hatchback,LFP,57.8,412,20697,South Korea,Asia-Pacific,738,3.9,42
+490,2021,Hyundai,Hyundai Hatchback M1,Hatchback,LFP,57.8,412,20697,South Korea,Europe,605,3.9,27
+491,2021,Hyundai,Hyundai Hatchback M1,Hatchback,LFP,57.8,412,20697,South Korea,North America,342,3.9,32
+492,2021,Hyundai,Hyundai Hatchback M1,Hatchback,LFP,57.8,412,20697,South Korea,Rest of World,154,3.9,30
+493,2022,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,59.4,472,18950,South Korea,Asia-Pacific,1097,4.22,30
+494,2022,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,59.4,472,18950,South Korea,Europe,533,4.22,24
+495,2022,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,59.4,472,18950,South Korea,North America,422,4.22,24
+496,2022,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,59.4,472,18950,South Korea,Rest of World,222,4.22,26
+497,2023,Hyundai,Hyundai Hatchback M1,Hatchback,LFP,61.1,447,19477,South Korea,Asia-Pacific,1400,4.13,23
+498,2023,Hyundai,Hyundai Hatchback M1,Hatchback,LFP,61.1,447,19477,South Korea,Europe,678,4.13,35
+499,2023,Hyundai,Hyundai Hatchback M1,Hatchback,LFP,61.1,447,19477,South Korea,North America,569,4.13,25
+500,2023,Hyundai,Hyundai Hatchback M1,Hatchback,LFP,61.1,447,19477,South Korea,Rest of World,240,4.13,14
+501,2024,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,62.7,468,18291,South Korea,Asia-Pacific,1810,4.02,31
+502,2024,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,62.7,468,18291,South Korea,Europe,962,4.02,15
+503,2024,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,62.7,468,18291,South Korea,North America,1064,4.02,21
+504,2024,Hyundai,Hyundai Hatchback M1,Hatchback,NMC,62.7,468,18291,South Korea,Rest of World,333,4.02,24
+505,2019,Hyundai,Hyundai Hatchback M2,Hatchback,NCA,51.7,423,25928,South Korea,Asia-Pacific,594,3.98,38
+506,2019,Hyundai,Hyundai Hatchback M2,Hatchback,NCA,51.7,423,25928,South Korea,Europe,210,3.98,30
+507,2019,Hyundai,Hyundai Hatchback M2,Hatchback,NCA,51.7,423,25928,South Korea,North America,244,3.98,35
+508,2019,Hyundai,Hyundai Hatchback M2,Hatchback,NCA,51.7,423,25928,South Korea,Rest of World,84,3.98,33
+509,2020,Hyundai,Hyundai Hatchback M2,Hatchback,NMC,53.2,431,19785,South Korea,Asia-Pacific,773,3.76,20
+510,2020,Hyundai,Hyundai Hatchback M2,Hatchback,NMC,53.2,431,19785,South Korea,Europe,474,3.76,39
+511,2020,Hyundai,Hyundai Hatchback M2,Hatchback,NMC,53.2,431,19785,South Korea,North America,397,3.76,35
+512,2020,Hyundai,Hyundai Hatchback M2,Hatchback,NMC,53.2,431,19785,South Korea,Rest of World,110,3.76,30
+513,2021,Hyundai,Hyundai Hatchback M2,Hatchback,NMC,54.8,451,20413,South Korea,Asia-Pacific,750,3.8,31
+514,2021,Hyundai,Hyundai Hatchback M2,Hatchback,NMC,54.8,451,20413,South Korea,Europe,388,3.8,25
+515,2021,Hyundai,Hyundai Hatchback M2,Hatchback,NMC,54.8,451,20413,South Korea,North America,531,3.8,27
+516,2021,Hyundai,Hyundai Hatchback M2,Hatchback,NMC,54.8,451,20413,South Korea,Rest of World,182,3.8,25
+517,2022,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,56.3,373,20375,South Korea,Asia-Pacific,1388,3.91,29
+518,2022,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,56.3,373,20375,South Korea,Europe,683,3.91,21
+519,2022,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,56.3,373,20375,South Korea,North America,457,3.91,24
+520,2022,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,56.3,373,20375,South Korea,Rest of World,252,3.91,29
+521,2023,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,57.9,400,17259,South Korea,Asia-Pacific,1681,3.9,27
+522,2023,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,57.9,400,17259,South Korea,Europe,964,3.9,19
+523,2023,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,57.9,400,17259,South Korea,North America,496,3.9,33
+524,2023,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,57.9,400,17259,South Korea,Rest of World,333,3.9,29
+525,2024,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,59.4,417,19162,South Korea,Asia-Pacific,1761,3.77,16
+526,2024,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,59.4,417,19162,South Korea,Europe,963,3.77,31
+527,2024,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,59.4,417,19162,South Korea,North America,751,3.77,23
+528,2024,Hyundai,Hyundai Hatchback M2,Hatchback,LFP,59.4,417,19162,South Korea,Rest of World,330,3.77,17
+529,2019,Hyundai,Hyundai SUV M1,SUV,NMC,90.3,588,52153,South Korea,Asia-Pacific,775,4.08,41
+530,2019,Hyundai,Hyundai SUV M1,SUV,NMC,90.3,588,52153,South Korea,Europe,391,4.08,31
+531,2019,Hyundai,Hyundai SUV M1,SUV,NMC,90.3,588,52153,South Korea,North America,229,4.08,39
+532,2019,Hyundai,Hyundai SUV M1,SUV,NMC,90.3,588,52153,South Korea,Rest of World,90,4.08,30
+533,2020,Hyundai,Hyundai SUV M1,SUV,NMC,93.0,543,55434,South Korea,Asia-Pacific,987,3.95,32
+534,2020,Hyundai,Hyundai SUV M1,SUV,NMC,93.0,543,55434,South Korea,Europe,401,3.95,30
+535,2020,Hyundai,Hyundai SUV M1,SUV,NMC,93.0,543,55434,South Korea,North America,318,3.95,26
+536,2020,Hyundai,Hyundai SUV M1,SUV,NMC,93.0,543,55434,South Korea,Rest of World,139,3.95,48
+537,2021,Hyundai,Hyundai SUV M1,SUV,NCA,95.7,595,46686,South Korea,Asia-Pacific,1221,4.17,34
+538,2021,Hyundai,Hyundai SUV M1,SUV,NCA,95.7,595,46686,South Korea,Europe,517,4.17,30
+539,2021,Hyundai,Hyundai SUV M1,SUV,NCA,95.7,595,46686,South Korea,North America,667,4.17,15
+540,2021,Hyundai,Hyundai SUV M1,SUV,NCA,95.7,595,46686,South Korea,Rest of World,167,4.17,31
+541,2022,Hyundai,Hyundai SUV M1,SUV,NCA,98.5,603,52559,South Korea,Asia-Pacific,1182,4.07,30
+542,2022,Hyundai,Hyundai SUV M1,SUV,NCA,98.5,603,52559,South Korea,Europe,1068,4.07,17
+543,2022,Hyundai,Hyundai SUV M1,SUV,NCA,98.5,603,52559,South Korea,North America,718,4.07,28
+544,2022,Hyundai,Hyundai SUV M1,SUV,NCA,98.5,603,52559,South Korea,Rest of World,275,4.07,19
+545,2023,Hyundai,Hyundai SUV M1,SUV,NCA,101.2,665,46981,South Korea,Asia-Pacific,1732,4.19,27
+546,2023,Hyundai,Hyundai SUV M1,SUV,NCA,101.2,665,46981,South Korea,Europe,1145,4.19,34
+547,2023,Hyundai,Hyundai SUV M1,SUV,NCA,101.2,665,46981,South Korea,North America,941,4.19,23
+548,2023,Hyundai,Hyundai SUV M1,SUV,NCA,101.2,665,46981,South Korea,Rest of World,455,4.19,34
+549,2024,Hyundai,Hyundai SUV M1,SUV,NMC,103.9,646,46028,South Korea,Asia-Pacific,3265,3.61,15
+550,2024,Hyundai,Hyundai SUV M1,SUV,NMC,103.9,646,46028,South Korea,Europe,1746,3.61,26
+551,2024,Hyundai,Hyundai SUV M1,SUV,NMC,103.9,646,46028,South Korea,North America,1750,3.61,19
+552,2024,Hyundai,Hyundai SUV M1,SUV,NMC,103.9,646,46028,South Korea,Rest of World,534,3.61,36
+553,2019,Hyundai,Hyundai Sedan M1,Sedan,NMC,59.2,448,46608,South Korea,Asia-Pacific,366,3.83,22
+554,2019,Hyundai,Hyundai Sedan M1,Sedan,NMC,59.2,448,46608,South Korea,Europe,269,3.83,34
+555,2019,Hyundai,Hyundai Sedan M1,Sedan,NMC,59.2,448,46608,South Korea,North America,223,3.83,22
+556,2019,Hyundai,Hyundai Sedan M1,Sedan,NMC,59.2,448,46608,South Korea,Rest of World,74,3.83,34
+557,2020,Hyundai,Hyundai Sedan M1,Sedan,NCA,61.0,421,46689,South Korea,Asia-Pacific,490,3.77,38
+558,2020,Hyundai,Hyundai Sedan M1,Sedan,NCA,61.0,421,46689,South Korea,Europe,192,3.77,34
+559,2020,Hyundai,Hyundai Sedan M1,Sedan,NCA,61.0,421,46689,South Korea,North America,281,3.77,32
+560,2020,Hyundai,Hyundai Sedan M1,Sedan,NCA,61.0,421,46689,South Korea,Rest of World,78,3.77,36
+561,2021,Hyundai,Hyundai Sedan M1,Sedan,LFP,62.8,424,40071,South Korea,Asia-Pacific,650,3.6,30
+562,2021,Hyundai,Hyundai Sedan M1,Sedan,LFP,62.8,424,40071,South Korea,Europe,261,3.6,32
+563,2021,Hyundai,Hyundai Sedan M1,Sedan,LFP,62.8,424,40071,South Korea,North America,323,3.6,43
+564,2021,Hyundai,Hyundai Sedan M1,Sedan,LFP,62.8,424,40071,South Korea,Rest of World,84,3.6,30
+565,2022,Hyundai,Hyundai Sedan M1,Sedan,NCA,64.6,499,48707,South Korea,Asia-Pacific,693,3.45,39
+566,2022,Hyundai,Hyundai Sedan M1,Sedan,NCA,64.6,499,48707,South Korea,Europe,366,3.45,29
+567,2022,Hyundai,Hyundai Sedan M1,Sedan,NCA,64.6,499,48707,South Korea,North America,273,3.45,27
+568,2022,Hyundai,Hyundai Sedan M1,Sedan,NCA,64.6,499,48707,South Korea,Rest of World,143,3.45,14
+569,2023,Hyundai,Hyundai Sedan M1,Sedan,NMC,66.3,446,48574,South Korea,Asia-Pacific,1023,4.03,24
+570,2023,Hyundai,Hyundai Sedan M1,Sedan,NMC,66.3,446,48574,South Korea,Europe,363,4.03,19
+571,2023,Hyundai,Hyundai Sedan M1,Sedan,NMC,66.3,446,48574,South Korea,North America,300,4.03,18
+572,2023,Hyundai,Hyundai Sedan M1,Sedan,NMC,66.3,446,48574,South Korea,Rest of World,107,4.03,38
+573,2024,Hyundai,Hyundai Sedan M1,Sedan,LFP,68.1,416,41972,South Korea,Asia-Pacific,1141,3.82,26
+574,2024,Hyundai,Hyundai Sedan M1,Sedan,LFP,68.1,416,41972,South Korea,Europe,669,3.82,25
+575,2024,Hyundai,Hyundai Sedan M1,Sedan,LFP,68.1,416,41972,South Korea,North America,485,3.82,17
+576,2024,Hyundai,Hyundai Sedan M1,Sedan,LFP,68.1,416,41972,South Korea,Rest of World,168,3.82,31
+577,2019,Kia,Kia SUV M1,SUV,LFP,80.7,464,46174,South Korea,Asia-Pacific,440,3.85,35
+578,2019,Kia,Kia SUV M1,SUV,LFP,80.7,464,46174,South Korea,Europe,259,3.85,36
+579,2019,Kia,Kia SUV M1,SUV,LFP,80.7,464,46174,South Korea,North America,308,3.85,28
+580,2019,Kia,Kia SUV M1,SUV,LFP,80.7,464,46174,South Korea,Rest of World,107,3.85,29
+581,2020,Kia,Kia SUV M1,SUV,LFP,83.1,470,52319,South Korea,Asia-Pacific,730,3.79,37
+582,2020,Kia,Kia SUV M1,SUV,LFP,83.1,470,52319,South Korea,Europe,402,3.79,41
+583,2020,Kia,Kia SUV M1,SUV,LFP,83.1,470,52319,South Korea,North America,365,3.79,24
+584,2020,Kia,Kia SUV M1,SUV,LFP,83.1,470,52319,South Korea,Rest of World,97,3.79,23
+585,2021,Kia,Kia SUV M1,SUV,NMC,85.6,533,44940,South Korea,Asia-Pacific,895,3.74,22
+586,2021,Kia,Kia SUV M1,SUV,NMC,85.6,533,44940,South Korea,Europe,438,3.74,24
+587,2021,Kia,Kia SUV M1,SUV,NMC,85.6,533,44940,South Korea,North America,530,3.74,26
+588,2021,Kia,Kia SUV M1,SUV,NMC,85.6,533,44940,South Korea,Rest of World,194,3.74,21
+589,2022,Kia,Kia SUV M1,SUV,NMC,88.0,542,53723,South Korea,Asia-Pacific,1300,3.66,21
+590,2022,Kia,Kia SUV M1,SUV,NMC,88.0,542,53723,South Korea,Europe,811,3.66,33
+591,2022,Kia,Kia SUV M1,SUV,NMC,88.0,542,53723,South Korea,North America,631,3.66,13
+592,2022,Kia,Kia SUV M1,SUV,NMC,88.0,542,53723,South Korea,Rest of World,284,3.66,32
+593,2023,Kia,Kia SUV M1,SUV,LFP,90.4,533,42887,South Korea,Asia-Pacific,1433,4.03,17
+594,2023,Kia,Kia SUV M1,SUV,LFP,90.4,533,42887,South Korea,Europe,671,4.03,28
+595,2023,Kia,Kia SUV M1,SUV,LFP,90.4,533,42887,South Korea,North America,980,4.03,16
+596,2023,Kia,Kia SUV M1,SUV,LFP,90.4,533,42887,South Korea,Rest of World,220,4.03,25
+597,2024,Kia,Kia SUV M1,SUV,LFP,92.8,546,38692,South Korea,Asia-Pacific,2087,3.94,24
+598,2024,Kia,Kia SUV M1,SUV,LFP,92.8,546,38692,South Korea,Europe,1226,3.94,26
+599,2024,Kia,Kia SUV M1,SUV,LFP,92.8,546,38692,South Korea,North America,955,3.94,28
+600,2024,Kia,Kia SUV M1,SUV,LFP,92.8,546,38692,South Korea,Rest of World,414,3.94,26
+601,2019,Kia,Kia SUV M2,SUV,NCA,101.7,614,53056,South Korea,Asia-Pacific,445,4.03,29
+602,2019,Kia,Kia SUV M2,SUV,NCA,101.7,614,53056,South Korea,Europe,374,4.03,37
+603,2019,Kia,Kia SUV M2,SUV,NCA,101.7,614,53056,South Korea,North America,258,4.03,30
+604,2019,Kia,Kia SUV M2,SUV,NCA,101.7,614,53056,South Korea,Rest of World,112,4.03,36
+605,2020,Kia,Kia SUV M2,SUV,LFP,104.8,579,51426,South Korea,Asia-Pacific,676,4.12,40
+606,2020,Kia,Kia SUV M2,SUV,LFP,104.8,579,51426,South Korea,Europe,503,4.12,29
+607,2020,Kia,Kia SUV M2,SUV,LFP,104.8,579,51426,South Korea,North America,404,4.12,31
+608,2020,Kia,Kia SUV M2,SUV,LFP,104.8,579,51426,South Korea,Rest of World,111,4.12,33
+609,2021,Kia,Kia SUV M2,SUV,NMC,107.8,652,51821,South Korea,Asia-Pacific,1088,3.94,24
+610,2021,Kia,Kia SUV M2,SUV,NMC,107.8,652,51821,South Korea,Europe,472,3.94,29
+611,2021,Kia,Kia SUV M2,SUV,NMC,107.8,652,51821,South Korea,North America,376,3.94,20
+612,2021,Kia,Kia SUV M2,SUV,NMC,107.8,652,51821,South Korea,Rest of World,162,3.94,17
+613,2022,Kia,Kia SUV M2,SUV,NMC,110.9,676,42964,South Korea,Asia-Pacific,1030,4.17,29
+614,2022,Kia,Kia SUV M2,SUV,NMC,110.9,676,42964,South Korea,Europe,614,4.17,32
+615,2022,Kia,Kia SUV M2,SUV,NMC,110.9,676,42964,South Korea,North America,458,4.17,24
+616,2022,Kia,Kia SUV M2,SUV,NMC,110.9,676,42964,South Korea,Rest of World,162,4.17,34
+617,2023,Kia,Kia SUV M2,SUV,LFP,113.9,637,42825,South Korea,Asia-Pacific,1282,3.68,33
+618,2023,Kia,Kia SUV M2,SUV,LFP,113.9,637,42825,South Korea,Europe,1185,3.68,28
+619,2023,Kia,Kia SUV M2,SUV,LFP,113.9,637,42825,South Korea,North America,681,3.68,31
+620,2023,Kia,Kia SUV M2,SUV,LFP,113.9,637,42825,South Korea,Rest of World,316,3.68,28
+621,2024,Kia,Kia SUV M2,SUV,LFP,117.0,659,44417,South Korea,Asia-Pacific,2964,3.65,15
+622,2024,Kia,Kia SUV M2,SUV,LFP,117.0,659,44417,South Korea,Europe,1139,3.65,36
+623,2024,Kia,Kia SUV M2,SUV,LFP,117.0,659,44417,South Korea,North America,1043,3.65,16
+624,2024,Kia,Kia SUV M2,SUV,LFP,117.0,659,44417,South Korea,Rest of World,301,3.65,34
+625,2019,Kia,Kia Sedan M1,Sedan,NMC,55.8,408,50524,South Korea,Asia-Pacific,392,4.05,35
+626,2019,Kia,Kia Sedan M1,Sedan,NMC,55.8,408,50524,South Korea,Europe,139,4.05,27
+627,2019,Kia,Kia Sedan M1,Sedan,NMC,55.8,408,50524,South Korea,North America,171,4.05,19
+628,2019,Kia,Kia Sedan M1,Sedan,NMC,55.8,408,50524,South Korea,Rest of World,42,4.05,28
+629,2020,Kia,Kia Sedan M1,Sedan,NMC,57.5,405,43960,South Korea,Asia-Pacific,498,3.73,37
+630,2020,Kia,Kia Sedan M1,Sedan,NMC,57.5,405,43960,South Korea,Europe,277,3.73,30
+631,2020,Kia,Kia Sedan M1,Sedan,NMC,57.5,405,43960,South Korea,North America,243,3.73,23
+632,2020,Kia,Kia Sedan M1,Sedan,NMC,57.5,405,43960,South Korea,Rest of World,49,3.73,31
+633,2021,Kia,Kia Sedan M1,Sedan,NCA,59.2,471,54187,South Korea,Asia-Pacific,355,4.16,12
+634,2021,Kia,Kia Sedan M1,Sedan,NCA,59.2,471,54187,South Korea,Europe,282,4.16,12
+635,2021,Kia,Kia Sedan M1,Sedan,NCA,59.2,471,54187,South Korea,North America,221,4.16,35
+636,2021,Kia,Kia Sedan M1,Sedan,NCA,59.2,471,54187,South Korea,Rest of World,67,4.16,20
+637,2022,Kia,Kia Sedan M1,Sedan,LFP,60.9,410,44827,South Korea,Asia-Pacific,574,4.23,21
+638,2022,Kia,Kia Sedan M1,Sedan,LFP,60.9,410,44827,South Korea,Europe,406,4.23,22
+639,2022,Kia,Kia Sedan M1,Sedan,LFP,60.9,410,44827,South Korea,North America,257,4.23,32
+640,2022,Kia,Kia Sedan M1,Sedan,LFP,60.9,410,44827,South Korea,Rest of World,84,4.23,25
+641,2023,Kia,Kia Sedan M1,Sedan,NCA,62.5,484,42557,South Korea,Asia-Pacific,635,4.43,20
+642,2023,Kia,Kia Sedan M1,Sedan,NCA,62.5,484,42557,South Korea,Europe,321,4.43,22
+643,2023,Kia,Kia Sedan M1,Sedan,NCA,62.5,484,42557,South Korea,North America,421,4.43,27
+644,2023,Kia,Kia Sedan M1,Sedan,NCA,62.5,484,42557,South Korea,Rest of World,136,4.43,14
+645,2024,Kia,Kia Sedan M1,Sedan,LFP,64.2,389,40521,South Korea,Asia-Pacific,611,3.72,38
+646,2024,Kia,Kia Sedan M1,Sedan,LFP,64.2,389,40521,South Korea,Europe,526,3.72,27
+647,2024,Kia,Kia Sedan M1,Sedan,LFP,64.2,389,40521,South Korea,North America,362,3.72,22
+648,2024,Kia,Kia Sedan M1,Sedan,LFP,64.2,389,40521,South Korea,Rest of World,148,3.72,19
+649,2019,Nissan,Nissan Hatchback M1,Hatchback,NCA,41.2,339,21459,Japan,Asia-Pacific,352,4.02,30
+650,2019,Nissan,Nissan Hatchback M1,Hatchback,NCA,41.2,339,21459,Japan,Europe,155,4.02,27
+651,2019,Nissan,Nissan Hatchback M1,Hatchback,NCA,41.2,339,21459,Japan,North America,126,4.02,33
+652,2019,Nissan,Nissan Hatchback M1,Hatchback,NCA,41.2,339,21459,Japan,Rest of World,49,4.02,29
+653,2020,Nissan,Nissan Hatchback M1,Hatchback,NMC,42.4,327,20697,Japan,Asia-Pacific,492,3.98,22
+654,2020,Nissan,Nissan Hatchback M1,Hatchback,NMC,42.4,327,20697,Japan,Europe,279,3.98,19
+655,2020,Nissan,Nissan Hatchback M1,Hatchback,NMC,42.4,327,20697,Japan,North America,159,3.98,40
+656,2020,Nissan,Nissan Hatchback M1,Hatchback,NMC,42.4,327,20697,Japan,Rest of World,79,3.98,31
+657,2021,Nissan,Nissan Hatchback M1,Hatchback,NMC,43.6,329,21374,Japan,Asia-Pacific,427,3.75,30
+658,2021,Nissan,Nissan Hatchback M1,Hatchback,NMC,43.6,329,21374,Japan,Europe,301,3.75,24
+659,2021,Nissan,Nissan Hatchback M1,Hatchback,NMC,43.6,329,21374,Japan,North America,222,3.75,31
+660,2021,Nissan,Nissan Hatchback M1,Hatchback,NMC,43.6,329,21374,Japan,Rest of World,134,3.75,30
+661,2022,Nissan,Nissan Hatchback M1,Hatchback,NMC,44.9,360,19500,Japan,Asia-Pacific,840,4.03,25
+662,2022,Nissan,Nissan Hatchback M1,Hatchback,NMC,44.9,360,19500,Japan,Europe,557,4.03,25
+663,2022,Nissan,Nissan Hatchback M1,Hatchback,NMC,44.9,360,19500,Japan,North America,368,4.03,31
+664,2022,Nissan,Nissan Hatchback M1,Hatchback,NMC,44.9,360,19500,Japan,Rest of World,109,4.03,19
+665,2023,Nissan,Nissan Hatchback M1,Hatchback,Sodium-Ion,46.1,253,16772,Japan,Asia-Pacific,905,4.15,19
+666,2023,Nissan,Nissan Hatchback M1,Hatchback,Sodium-Ion,46.1,253,16772,Japan,Europe,723,4.15,31
+667,2023,Nissan,Nissan Hatchback M1,Hatchback,Sodium-Ion,46.1,253,16772,Japan,North America,385,4.15,28
+668,2023,Nissan,Nissan Hatchback M1,Hatchback,Sodium-Ion,46.1,253,16772,Japan,Rest of World,180,4.15,23
+669,2024,Nissan,Nissan Hatchback M1,Hatchback,LFP,47.3,353,17825,Japan,Asia-Pacific,1125,3.7,25
+670,2024,Nissan,Nissan Hatchback M1,Hatchback,LFP,47.3,353,17825,Japan,Europe,888,3.7,17
+671,2024,Nissan,Nissan Hatchback M1,Hatchback,LFP,47.3,353,17825,Japan,North America,558,3.7,12
+672,2024,Nissan,Nissan Hatchback M1,Hatchback,LFP,47.3,353,17825,Japan,Rest of World,218,3.7,23
+673,2019,Nissan,Nissan Hatchback M2,Hatchback,LFP,54.4,368,18373,Japan,Asia-Pacific,290,3.93,29
+674,2019,Nissan,Nissan Hatchback M2,Hatchback,LFP,54.4,368,18373,Japan,Europe,159,3.93,26
+675,2019,Nissan,Nissan Hatchback M2,Hatchback,LFP,54.4,368,18373,Japan,North America,148,3.93,37
+676,2019,Nissan,Nissan Hatchback M2,Hatchback,LFP,54.4,368,18373,Japan,Rest of World,57,3.93,43
+677,2020,Nissan,Nissan Hatchback M2,Hatchback,NMC,56.0,421,23754,Japan,Asia-Pacific,381,4.12,31
+678,2020,Nissan,Nissan Hatchback M2,Hatchback,NMC,56.0,421,23754,Japan,Europe,231,4.12,35
+679,2020,Nissan,Nissan Hatchback M2,Hatchback,NMC,56.0,421,23754,Japan,North America,224,4.12,37
+680,2020,Nissan,Nissan Hatchback M2,Hatchback,NMC,56.0,421,23754,Japan,Rest of World,69,4.12,32
+681,2021,Nissan,Nissan Hatchback M2,Hatchback,NMC,57.7,475,21768,Japan,Asia-Pacific,675,3.8,20
+682,2021,Nissan,Nissan Hatchback M2,Hatchback,NMC,57.7,475,21768,Japan,Europe,301,3.8,31
+683,2021,Nissan,Nissan Hatchback M2,Hatchback,NMC,57.7,475,21768,Japan,North America,296,3.8,27
+684,2021,Nissan,Nissan Hatchback M2,Hatchback,NMC,57.7,475,21768,Japan,Rest of World,85,3.8,35
+685,2022,Nissan,Nissan Hatchback M2,Hatchback,LFP,59.3,443,17847,Japan,Asia-Pacific,595,3.81,16
+686,2022,Nissan,Nissan Hatchback M2,Hatchback,LFP,59.3,443,17847,Japan,Europe,373,3.81,28
+687,2022,Nissan,Nissan Hatchback M2,Hatchback,LFP,59.3,443,17847,Japan,North America,310,3.81,28
+688,2022,Nissan,Nissan Hatchback M2,Hatchback,LFP,59.3,443,17847,Japan,Rest of World,128,3.81,15
+689,2023,Nissan,Nissan Hatchback M2,Hatchback,LFP,60.9,398,16239,Japan,Asia-Pacific,1167,3.61,33
+690,2023,Nissan,Nissan Hatchback M2,Hatchback,LFP,60.9,398,16239,Japan,Europe,706,3.61,26
+691,2023,Nissan,Nissan Hatchback M2,Hatchback,LFP,60.9,398,16239,Japan,North America,504,3.61,23
+692,2023,Nissan,Nissan Hatchback M2,Hatchback,LFP,60.9,398,16239,Japan,Rest of World,209,3.61,28
+693,2024,Nissan,Nissan Hatchback M2,Hatchback,NCA,62.6,535,20007,Japan,Asia-Pacific,1557,4.0,31
+694,2024,Nissan,Nissan Hatchback M2,Hatchback,NCA,62.6,535,20007,Japan,Europe,919,4.0,15
+695,2024,Nissan,Nissan Hatchback M2,Hatchback,NCA,62.6,535,20007,Japan,North America,834,4.0,27
+696,2024,Nissan,Nissan Hatchback M2,Hatchback,NCA,62.6,535,20007,Japan,Rest of World,176,4.0,21
+697,2019,Nissan,Nissan SUV M1,SUV,NCA,97.4,626,60836,Japan,Asia-Pacific,374,3.78,34
+698,2019,Nissan,Nissan SUV M1,SUV,NCA,97.4,626,60836,Japan,Europe,174,3.78,37
+699,2019,Nissan,Nissan SUV M1,SUV,NCA,97.4,626,60836,Japan,North America,181,3.78,34
+700,2019,Nissan,Nissan SUV M1,SUV,NCA,97.4,626,60836,Japan,Rest of World,73,3.78,32
+701,2020,Nissan,Nissan SUV M1,SUV,LFP,100.3,586,46706,Japan,Asia-Pacific,585,4.04,25
+702,2020,Nissan,Nissan SUV M1,SUV,LFP,100.3,586,46706,Japan,Europe,277,4.04,30
+703,2020,Nissan,Nissan SUV M1,SUV,LFP,100.3,586,46706,Japan,North America,226,4.04,44
+704,2020,Nissan,Nissan SUV M1,SUV,LFP,100.3,586,46706,Japan,Rest of World,108,4.04,33
+705,2021,Nissan,Nissan SUV M1,SUV,NCA,103.2,627,58690,Japan,Asia-Pacific,1010,3.89,24
+706,2021,Nissan,Nissan SUV M1,SUV,NCA,103.2,627,58690,Japan,Europe,344,3.89,31
+707,2021,Nissan,Nissan SUV M1,SUV,NCA,103.2,627,58690,Japan,North America,309,3.89,31
+708,2021,Nissan,Nissan SUV M1,SUV,NCA,103.2,627,58690,Japan,Rest of World,147,3.89,29
+709,2022,Nissan,Nissan SUV M1,SUV,NCA,106.1,629,51873,Japan,Asia-Pacific,783,3.8,22
+710,2022,Nissan,Nissan SUV M1,SUV,NCA,106.1,629,51873,Japan,Europe,704,3.8,26
+711,2022,Nissan,Nissan SUV M1,SUV,NCA,106.1,629,51873,Japan,North America,524,3.8,28
+712,2022,Nissan,Nissan SUV M1,SUV,NCA,106.1,629,51873,Japan,Rest of World,207,3.8,23
+713,2023,Nissan,Nissan SUV M1,SUV,NCA,109.0,732,45750,Japan,Asia-Pacific,1514,4.06,31
+714,2023,Nissan,Nissan SUV M1,SUV,NCA,109.0,732,45750,Japan,Europe,771,4.06,24
+715,2023,Nissan,Nissan SUV M1,SUV,NCA,109.0,732,45750,Japan,North America,536,4.06,35
+716,2023,Nissan,Nissan SUV M1,SUV,NCA,109.0,732,45750,Japan,Rest of World,253,4.06,30
+717,2024,Nissan,Nissan SUV M1,SUV,LFP,112.0,577,46521,Japan,Asia-Pacific,1726,3.72,20
+718,2024,Nissan,Nissan SUV M1,SUV,LFP,112.0,577,46521,Japan,Europe,1048,3.72,24
+719,2024,Nissan,Nissan SUV M1,SUV,LFP,112.0,577,46521,Japan,North America,772,3.72,28
+720,2024,Nissan,Nissan SUV M1,SUV,LFP,112.0,577,46521,Japan,Rest of World,294,3.72,28
+721,2019,BMW,BMW Sedan M1,Sedan,LFP,58.0,386,43486,Germany,Asia-Pacific,226,4.11,25
+722,2019,BMW,BMW Sedan M1,Sedan,LFP,58.0,386,43486,Germany,Europe,191,4.11,32
+723,2019,BMW,BMW Sedan M1,Sedan,LFP,58.0,386,43486,Germany,North America,114,4.11,29
+724,2019,BMW,BMW Sedan M1,Sedan,LFP,58.0,386,43486,Germany,Rest of World,48,4.11,35
+725,2020,BMW,BMW Sedan M1,Sedan,LFP,59.8,361,42501,Germany,Asia-Pacific,334,4.06,19
+726,2020,BMW,BMW Sedan M1,Sedan,LFP,59.8,361,42501,Germany,Europe,170,4.06,30
+727,2020,BMW,BMW Sedan M1,Sedan,LFP,59.8,361,42501,Germany,North America,163,4.06,25
+728,2020,BMW,BMW Sedan M1,Sedan,LFP,59.8,361,42501,Germany,Rest of World,65,4.06,29
+729,2021,BMW,BMW Sedan M1,Sedan,LFP,61.5,405,47431,Germany,Asia-Pacific,536,3.98,32
+730,2021,BMW,BMW Sedan M1,Sedan,LFP,61.5,405,47431,Germany,Europe,176,3.98,26
+731,2021,BMW,BMW Sedan M1,Sedan,LFP,61.5,405,47431,Germany,North America,235,3.98,35
+732,2021,BMW,BMW Sedan M1,Sedan,LFP,61.5,405,47431,Germany,Rest of World,74,3.98,40
+733,2022,BMW,BMW Sedan M1,Sedan,NMC,63.2,424,47658,Germany,Asia-Pacific,586,4.08,19
+734,2022,BMW,BMW Sedan M1,Sedan,NMC,63.2,424,47658,Germany,Europe,309,4.08,23
+735,2022,BMW,BMW Sedan M1,Sedan,NMC,63.2,424,47658,Germany,North America,291,4.08,23
+736,2022,BMW,BMW Sedan M1,Sedan,NMC,63.2,424,47658,Germany,Rest of World,112,4.08,29
+737,2023,BMW,BMW Sedan M1,Sedan,NMC,65.0,443,47384,Germany,Asia-Pacific,590,4.17,20
+738,2023,BMW,BMW Sedan M1,Sedan,NMC,65.0,443,47384,Germany,Europe,311,4.17,36
+739,2023,BMW,BMW Sedan M1,Sedan,NMC,65.0,443,47384,Germany,North America,249,4.17,20
+740,2023,BMW,BMW Sedan M1,Sedan,NMC,65.0,443,47384,Germany,Rest of World,135,4.17,26
+741,2024,BMW,BMW Sedan M1,Sedan,LFP,66.7,419,43345,Germany,Asia-Pacific,794,3.85,31
+742,2024,BMW,BMW Sedan M1,Sedan,LFP,66.7,419,43345,Germany,Europe,363,3.85,22
+743,2024,BMW,BMW Sedan M1,Sedan,LFP,66.7,419,43345,Germany,North America,413,3.85,21
+744,2024,BMW,BMW Sedan M1,Sedan,LFP,66.7,419,43345,Germany,Rest of World,93,3.85,32
+745,2019,BMW,BMW SUV M1,SUV,NMC,96.6,583,52469,Germany,Asia-Pacific,476,3.8,33
+746,2019,BMW,BMW SUV M1,SUV,NMC,96.6,583,52469,Germany,Europe,276,3.8,35
+747,2019,BMW,BMW SUV M1,SUV,NMC,96.6,583,52469,Germany,North America,298,3.8,27
+748,2019,BMW,BMW SUV M1,SUV,NMC,96.6,583,52469,Germany,Rest of World,77,3.8,30
+749,2020,BMW,BMW SUV M1,SUV,LFP,99.5,528,43789,Germany,Asia-Pacific,633,4.0,28
+750,2020,BMW,BMW SUV M1,SUV,LFP,99.5,528,43789,Germany,Europe,253,4.0,24
+751,2020,BMW,BMW SUV M1,SUV,LFP,99.5,528,43789,Germany,North America,292,4.0,36
+752,2020,BMW,BMW SUV M1,SUV,LFP,99.5,528,43789,Germany,Rest of World,96,4.0,12
+753,2021,BMW,BMW SUV M1,SUV,LFP,102.4,535,46966,Germany,Asia-Pacific,898,3.55,29
+754,2021,BMW,BMW SUV M1,SUV,LFP,102.4,535,46966,Germany,Europe,569,3.55,31
+755,2021,BMW,BMW SUV M1,SUV,LFP,102.4,535,46966,Germany,North America,400,3.55,31
+756,2021,BMW,BMW SUV M1,SUV,LFP,102.4,535,46966,Germany,Rest of World,186,3.55,43
+757,2022,BMW,BMW SUV M1,SUV,NMC,105.3,593,44733,Germany,Asia-Pacific,1315,4.39,25
+758,2022,BMW,BMW SUV M1,SUV,NMC,105.3,593,44733,Germany,Europe,729,4.39,33
+759,2022,BMW,BMW SUV M1,SUV,NMC,105.3,593,44733,Germany,North America,688,4.39,23
+760,2022,BMW,BMW SUV M1,SUV,NMC,105.3,593,44733,Germany,Rest of World,154,4.39,26
+761,2023,BMW,BMW SUV M1,SUV,LFP,108.2,628,40602,Germany,Asia-Pacific,1492,3.94,24
+762,2023,BMW,BMW SUV M1,SUV,LFP,108.2,628,40602,Germany,Europe,861,3.94,27
+763,2023,BMW,BMW SUV M1,SUV,LFP,108.2,628,40602,Germany,North America,987,3.94,28
+764,2023,BMW,BMW SUV M1,SUV,LFP,108.2,628,40602,Germany,Rest of World,332,3.94,28
+765,2024,BMW,BMW SUV M1,SUV,LFP,111.1,648,43805,Germany,Asia-Pacific,1809,4.14,28
+766,2024,BMW,BMW SUV M1,SUV,LFP,111.1,648,43805,Germany,Europe,1077,4.14,24
+767,2024,BMW,BMW SUV M1,SUV,LFP,111.1,648,43805,Germany,North America,1007,4.14,33
+768,2024,BMW,BMW SUV M1,SUV,LFP,111.1,648,43805,Germany,Rest of World,331,4.14,26
+769,2019,BMW,BMW SUV M2,SUV,LFP,75.1,437,50257,Germany,Asia-Pacific,524,4.09,26
+770,2019,BMW,BMW SUV M2,SUV,LFP,75.1,437,50257,Germany,Europe,220,4.09,33
+771,2019,BMW,BMW SUV M2,SUV,LFP,75.1,437,50257,Germany,North America,162,4.09,29
+772,2019,BMW,BMW SUV M2,SUV,LFP,75.1,437,50257,Germany,Rest of World,96,4.09,48
+773,2020,BMW,BMW SUV M2,SUV,LFP,77.3,442,42598,Germany,Asia-Pacific,732,4.42,18
+774,2020,BMW,BMW SUV M2,SUV,LFP,77.3,442,42598,Germany,Europe,249,4.42,35
+775,2020,BMW,BMW SUV M2,SUV,LFP,77.3,442,42598,Germany,North America,401,4.42,29
+776,2020,BMW,BMW SUV M2,SUV,LFP,77.3,442,42598,Germany,Rest of World,91,4.42,39
+777,2021,BMW,BMW SUV M2,SUV,NMC,79.6,489,53724,Germany,Asia-Pacific,1058,4.09,22
+778,2021,BMW,BMW SUV M2,SUV,NMC,79.6,489,53724,Germany,Europe,403,4.09,30
+779,2021,BMW,BMW SUV M2,SUV,NMC,79.6,489,53724,Germany,North America,368,4.09,36
+780,2021,BMW,BMW SUV M2,SUV,NMC,79.6,489,53724,Germany,Rest of World,191,4.09,39
+781,2022,BMW,BMW SUV M2,SUV,NCA,81.8,510,51544,Germany,Asia-Pacific,884,4.76,35
+782,2022,BMW,BMW SUV M2,SUV,NCA,81.8,510,51544,Germany,Europe,653,4.76,23
+783,2022,BMW,BMW SUV M2,SUV,NCA,81.8,510,51544,Germany,North America,712,4.76,21
+784,2022,BMW,BMW SUV M2,SUV,NCA,81.8,510,51544,Germany,Rest of World,168,4.76,27
+785,2023,BMW,BMW SUV M2,SUV,LFP,84.1,492,45800,Germany,Asia-Pacific,1741,4.18,27
+786,2023,BMW,BMW SUV M2,SUV,LFP,84.1,492,45800,Germany,Europe,1001,4.18,25
+787,2023,BMW,BMW SUV M2,SUV,LFP,84.1,492,45800,Germany,North America,863,4.18,18
+788,2023,BMW,BMW SUV M2,SUV,LFP,84.1,492,45800,Germany,Rest of World,248,4.18,31
+789,2024,BMW,BMW SUV M2,SUV,Sodium-Ion,86.3,409,40464,Germany,Asia-Pacific,2432,4.28,14
+790,2024,BMW,BMW SUV M2,SUV,Sodium-Ion,86.3,409,40464,Germany,Europe,932,4.28,16
+791,2024,BMW,BMW SUV M2,SUV,Sodium-Ion,86.3,409,40464,Germany,North America,1055,4.28,20
+792,2024,BMW,BMW SUV M2,SUV,Sodium-Ion,86.3,409,40464,Germany,Rest of World,390,4.28,23
+793,2019,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,40.1,312,23415,Germany,Asia-Pacific,659,4.2,27
+794,2019,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,40.1,312,23415,Germany,Europe,362,4.2,35
+795,2019,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,40.1,312,23415,Germany,North America,315,4.2,22
+796,2019,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,40.1,312,23415,Germany,Rest of World,93,4.2,29
+797,2020,Volkswagen,Volkswagen Hatchback M1,Hatchback,NCA,41.3,341,20672,Germany,Asia-Pacific,657,4.37,22
+798,2020,Volkswagen,Volkswagen Hatchback M1,Hatchback,NCA,41.3,341,20672,Germany,Europe,524,4.37,38
+799,2020,Volkswagen,Volkswagen Hatchback M1,Hatchback,NCA,41.3,341,20672,Germany,North America,407,4.37,27
+800,2020,Volkswagen,Volkswagen Hatchback M1,Hatchback,NCA,41.3,341,20672,Germany,Rest of World,135,4.37,16
+801,2021,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,42.5,328,20535,Germany,Asia-Pacific,806,3.84,36
+802,2021,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,42.5,328,20535,Germany,Europe,527,3.84,26
+803,2021,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,42.5,328,20535,Germany,North America,503,3.84,40
+804,2021,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,42.5,328,20535,Germany,Rest of World,139,3.84,35
+805,2022,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,43.7,330,21948,Germany,Asia-Pacific,1023,3.71,18
+806,2022,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,43.7,330,21948,Germany,Europe,945,3.71,30
+807,2022,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,43.7,330,21948,Germany,North America,476,3.71,27
+808,2022,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,43.7,330,21948,Germany,Rest of World,291,3.71,31
+809,2023,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,44.9,329,21518,Germany,Asia-Pacific,1249,4.6,24
+810,2023,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,44.9,329,21518,Germany,Europe,1224,4.6,32
+811,2023,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,44.9,329,21518,Germany,North America,734,4.6,24
+812,2023,Volkswagen,Volkswagen Hatchback M1,Hatchback,NMC,44.9,329,21518,Germany,Rest of World,389,4.6,22
+813,2024,Volkswagen,Volkswagen Hatchback M1,Hatchback,LFP,46.1,330,17652,Germany,Asia-Pacific,1740,3.75,14
+814,2024,Volkswagen,Volkswagen Hatchback M1,Hatchback,LFP,46.1,330,17652,Germany,Europe,1052,3.75,18
+815,2024,Volkswagen,Volkswagen Hatchback M1,Hatchback,LFP,46.1,330,17652,Germany,North America,868,3.75,18
+816,2024,Volkswagen,Volkswagen Hatchback M1,Hatchback,LFP,46.1,330,17652,Germany,Rest of World,412,3.75,21
+817,2019,Volkswagen,Volkswagen Hatchback M2,Hatchback,NMC,34.1,257,23243,Germany,Asia-Pacific,480,3.83,33
+818,2019,Volkswagen,Volkswagen Hatchback M2,Hatchback,NMC,34.1,257,23243,Germany,Europe,419,3.83,26
+819,2019,Volkswagen,Volkswagen Hatchback M2,Hatchback,NMC,34.1,257,23243,Germany,North America,320,3.83,19
+820,2019,Volkswagen,Volkswagen Hatchback M2,Hatchback,NMC,34.1,257,23243,Germany,Rest of World,117,3.83,36
+821,2020,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,35.1,263,20543,Germany,Asia-Pacific,731,3.95,30
+822,2020,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,35.1,263,20543,Germany,Europe,441,3.95,31
+823,2020,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,35.1,263,20543,Germany,North America,371,3.95,39
+824,2020,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,35.1,263,20543,Germany,Rest of World,119,3.95,32
+825,2021,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,36.1,271,17962,Germany,Asia-Pacific,899,4.09,36
+826,2021,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,36.1,271,17962,Germany,Europe,570,4.09,28
+827,2021,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,36.1,271,17962,Germany,North America,637,4.09,26
+828,2021,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,36.1,271,17962,Germany,Rest of World,203,4.09,32
+829,2022,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,37.1,258,16768,Germany,Asia-Pacific,1477,4.2,37
+830,2022,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,37.1,258,16768,Germany,Europe,748,4.2,33
+831,2022,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,37.1,258,16768,Germany,North America,611,4.2,24
+832,2022,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,37.1,258,16768,Germany,Rest of World,180,4.2,29
+833,2023,Volkswagen,Volkswagen Hatchback M2,Hatchback,Sodium-Ion,38.2,209,17207,Germany,Asia-Pacific,2075,3.85,30
+834,2023,Volkswagen,Volkswagen Hatchback M2,Hatchback,Sodium-Ion,38.2,209,17207,Germany,Europe,1033,3.85,25
+835,2023,Volkswagen,Volkswagen Hatchback M2,Hatchback,Sodium-Ion,38.2,209,17207,Germany,North America,1030,3.85,25
+836,2023,Volkswagen,Volkswagen Hatchback M2,Hatchback,Sodium-Ion,38.2,209,17207,Germany,Rest of World,370,3.85,38
+837,2024,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,39.2,252,17577,Germany,Asia-Pacific,1803,4.17,32
+838,2024,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,39.2,252,17577,Germany,Europe,1179,4.17,27
+839,2024,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,39.2,252,17577,Germany,North America,1362,4.17,24
+840,2024,Volkswagen,Volkswagen Hatchback M2,Hatchback,LFP,39.2,252,17577,Germany,Rest of World,310,4.17,20
+841,2019,Volkswagen,Volkswagen SUV M1,SUV,NMC,59.9,388,59158,Germany,Asia-Pacific,817,4.05,36
+842,2019,Volkswagen,Volkswagen SUV M1,SUV,NMC,59.9,388,59158,Germany,Europe,475,4.05,29
+843,2019,Volkswagen,Volkswagen SUV M1,SUV,NMC,59.9,388,59158,Germany,North America,285,4.05,44
+844,2019,Volkswagen,Volkswagen SUV M1,SUV,NMC,59.9,388,59158,Germany,Rest of World,110,4.05,34
+845,2020,Volkswagen,Volkswagen SUV M1,SUV,LFP,61.7,360,51268,Germany,Asia-Pacific,1166,3.38,28
+846,2020,Volkswagen,Volkswagen SUV M1,SUV,LFP,61.7,360,51268,Germany,Europe,554,3.38,35
+847,2020,Volkswagen,Volkswagen SUV M1,SUV,LFP,61.7,360,51268,Germany,North America,596,3.38,39
+848,2020,Volkswagen,Volkswagen SUV M1,SUV,LFP,61.7,360,51268,Germany,Rest of World,221,3.38,31
+849,2021,Volkswagen,Volkswagen SUV M1,SUV,NCA,63.5,384,58203,Germany,Asia-Pacific,1290,3.74,32
+850,2021,Volkswagen,Volkswagen SUV M1,SUV,NCA,63.5,384,58203,Germany,Europe,680,3.74,32
+851,2021,Volkswagen,Volkswagen SUV M1,SUV,NCA,63.5,384,58203,Germany,North America,558,3.74,33
+852,2021,Volkswagen,Volkswagen SUV M1,SUV,NCA,63.5,384,58203,Germany,Rest of World,240,3.74,30
+853,2022,Volkswagen,Volkswagen SUV M1,SUV,NMC,65.3,396,47798,Germany,Asia-Pacific,1508,3.71,36
+854,2022,Volkswagen,Volkswagen SUV M1,SUV,NMC,65.3,396,47798,Germany,Europe,831,3.71,34
+855,2022,Volkswagen,Volkswagen SUV M1,SUV,NMC,65.3,396,47798,Germany,North America,1032,3.71,30
+856,2022,Volkswagen,Volkswagen SUV M1,SUV,NMC,65.3,396,47798,Germany,Rest of World,395,3.71,34
+857,2023,Volkswagen,Volkswagen SUV M1,SUV,NCA,67.1,439,53155,Germany,Asia-Pacific,2978,4.14,40
+858,2023,Volkswagen,Volkswagen SUV M1,SUV,NCA,67.1,439,53155,Germany,Europe,1304,4.14,31
+859,2023,Volkswagen,Volkswagen SUV M1,SUV,NCA,67.1,439,53155,Germany,North America,1382,4.14,22
+860,2023,Volkswagen,Volkswagen SUV M1,SUV,NCA,67.1,439,53155,Germany,Rest of World,550,4.14,28
+861,2024,Volkswagen,Volkswagen SUV M1,SUV,NMC,68.9,390,42709,Germany,Asia-Pacific,3122,4.3,27
+862,2024,Volkswagen,Volkswagen SUV M1,SUV,NMC,68.9,390,42709,Germany,Europe,1567,4.3,20
+863,2024,Volkswagen,Volkswagen SUV M1,SUV,NMC,68.9,390,42709,Germany,North America,1926,4.3,24
+864,2024,Volkswagen,Volkswagen SUV M1,SUV,NMC,68.9,390,42709,Germany,Rest of World,439,4.3,18
+865,2019,Volkswagen,Volkswagen SUV M2,SUV,NMC,80.7,484,51982,Germany,Asia-Pacific,779,3.49,31
+866,2019,Volkswagen,Volkswagen SUV M2,SUV,NMC,80.7,484,51982,Germany,Europe,405,3.49,27
+867,2019,Volkswagen,Volkswagen SUV M2,SUV,NMC,80.7,484,51982,Germany,North America,416,3.49,27
+868,2019,Volkswagen,Volkswagen SUV M2,SUV,NMC,80.7,484,51982,Germany,Rest of World,155,3.49,41
+869,2020,Volkswagen,Volkswagen SUV M2,SUV,LFP,83.1,463,45074,Germany,Asia-Pacific,845,4.24,25
+870,2020,Volkswagen,Volkswagen SUV M2,SUV,LFP,83.1,463,45074,Germany,Europe,475,4.24,31
+871,2020,Volkswagen,Volkswagen SUV M2,SUV,LFP,83.1,463,45074,Germany,North America,621,4.24,30
+872,2020,Volkswagen,Volkswagen SUV M2,SUV,LFP,83.1,463,45074,Germany,Rest of World,218,4.24,37
+873,2021,Volkswagen,Volkswagen SUV M2,SUV,NCA,85.5,511,56762,Germany,Asia-Pacific,1266,3.9,33
+874,2021,Volkswagen,Volkswagen SUV M2,SUV,NCA,85.5,511,56762,Germany,Europe,836,3.9,33
+875,2021,Volkswagen,Volkswagen SUV M2,SUV,NCA,85.5,511,56762,Germany,North America,617,3.9,23
+876,2021,Volkswagen,Volkswagen SUV M2,SUV,NCA,85.5,511,56762,Germany,Rest of World,270,3.9,38
+877,2022,Volkswagen,Volkswagen SUV M2,SUV,NCA,88.0,532,46971,Germany,Asia-Pacific,2344,4.05,22
+878,2022,Volkswagen,Volkswagen SUV M2,SUV,NCA,88.0,532,46971,Germany,Europe,862,4.05,29
+879,2022,Volkswagen,Volkswagen SUV M2,SUV,NCA,88.0,532,46971,Germany,North America,1086,4.05,23
+880,2022,Volkswagen,Volkswagen SUV M2,SUV,NCA,88.0,532,46971,Germany,Rest of World,325,4.05,24
+881,2023,Volkswagen,Volkswagen SUV M2,SUV,LFP,90.4,501,43541,Germany,Asia-Pacific,2252,4.01,22
+882,2023,Volkswagen,Volkswagen SUV M2,SUV,LFP,90.4,501,43541,Germany,Europe,1097,4.01,18
+883,2023,Volkswagen,Volkswagen SUV M2,SUV,LFP,90.4,501,43541,Germany,North America,1411,4.01,27
+884,2023,Volkswagen,Volkswagen SUV M2,SUV,LFP,90.4,501,43541,Germany,Rest of World,410,4.01,25
+885,2024,Volkswagen,Volkswagen SUV M2,SUV,LFP,92.8,493,42674,Germany,Asia-Pacific,2874,4.26,28
+886,2024,Volkswagen,Volkswagen SUV M2,SUV,LFP,92.8,493,42674,Germany,Europe,1496,4.26,28
+887,2024,Volkswagen,Volkswagen SUV M2,SUV,LFP,92.8,493,42674,Germany,North America,1829,4.26,29
+888,2024,Volkswagen,Volkswagen SUV M2,SUV,LFP,92.8,493,42674,Germany,Rest of World,447,4.26,28
+889,2019,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,62.9,439,52593,Germany,Asia-Pacific,383,3.58,21
+890,2019,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,62.9,439,52593,Germany,Europe,188,3.58,39
+891,2019,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,62.9,439,52593,Germany,North America,262,3.58,24
+892,2019,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,62.9,439,52593,Germany,Rest of World,62,3.58,31
+893,2020,Volkswagen,Volkswagen Sedan M1,Sedan,NCA,64.8,513,52535,Germany,Asia-Pacific,575,4.1,33
+894,2020,Volkswagen,Volkswagen Sedan M1,Sedan,NCA,64.8,513,52535,Germany,Europe,394,4.1,35
+895,2020,Volkswagen,Volkswagen Sedan M1,Sedan,NCA,64.8,513,52535,Germany,North America,246,4.1,35
+896,2020,Volkswagen,Volkswagen Sedan M1,Sedan,NCA,64.8,513,52535,Germany,Rest of World,127,4.1,32
+897,2021,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,66.6,502,51836,Germany,Asia-Pacific,802,4.03,29
+898,2021,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,66.6,502,51836,Germany,Europe,275,4.03,29
+899,2021,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,66.6,502,51836,Germany,North America,303,4.03,28
+900,2021,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,66.6,502,51836,Germany,Rest of World,121,4.03,30
+901,2022,Volkswagen,Volkswagen Sedan M1,Sedan,LFP,68.5,417,37314,Germany,Asia-Pacific,743,3.94,17
+902,2022,Volkswagen,Volkswagen Sedan M1,Sedan,LFP,68.5,417,37314,Germany,Europe,505,3.94,24
+903,2022,Volkswagen,Volkswagen Sedan M1,Sedan,LFP,68.5,417,37314,Germany,North America,408,3.94,22
+904,2022,Volkswagen,Volkswagen Sedan M1,Sedan,LFP,68.5,417,37314,Germany,Rest of World,135,3.94,39
+905,2023,Volkswagen,Volkswagen Sedan M1,Sedan,LFP,70.4,475,44845,Germany,Asia-Pacific,1026,4.33,27
+906,2023,Volkswagen,Volkswagen Sedan M1,Sedan,LFP,70.4,475,44845,Germany,Europe,496,4.33,21
+907,2023,Volkswagen,Volkswagen Sedan M1,Sedan,LFP,70.4,475,44845,Germany,North America,556,4.33,41
+908,2023,Volkswagen,Volkswagen Sedan M1,Sedan,LFP,70.4,475,44845,Germany,Rest of World,173,4.33,22
+909,2024,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,72.3,485,39619,Germany,Asia-Pacific,1338,4.2,32
+910,2024,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,72.3,485,39619,Germany,Europe,522,4.2,24
+911,2024,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,72.3,485,39619,Germany,North America,703,4.2,19
+912,2024,Volkswagen,Volkswagen Sedan M1,Sedan,NMC,72.3,485,39619,Germany,Rest of World,151,4.2,23
+913,2019,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,80.1,528,44542,Germany,Asia-Pacific,412,4.06,36
+914,2019,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,80.1,528,44542,Germany,Europe,192,4.06,27
+915,2019,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,80.1,528,44542,Germany,North America,297,4.06,28
+916,2019,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,80.1,528,44542,Germany,Rest of World,82,4.06,28
+917,2020,Volkswagen,Volkswagen Sedan M2,Sedan,NCA,82.5,640,46711,Germany,Asia-Pacific,554,4.19,36
+918,2020,Volkswagen,Volkswagen Sedan M2,Sedan,NCA,82.5,640,46711,Germany,Europe,349,4.19,29
+919,2020,Volkswagen,Volkswagen Sedan M2,Sedan,NCA,82.5,640,46711,Germany,North America,302,4.19,28
+920,2020,Volkswagen,Volkswagen Sedan M2,Sedan,NCA,82.5,640,46711,Germany,Rest of World,93,4.19,34
+921,2021,Volkswagen,Volkswagen Sedan M2,Sedan,NMC,84.9,600,45594,Germany,Asia-Pacific,561,4.33,32
+922,2021,Volkswagen,Volkswagen Sedan M2,Sedan,NMC,84.9,600,45594,Germany,Europe,317,4.33,31
+923,2021,Volkswagen,Volkswagen Sedan M2,Sedan,NMC,84.9,600,45594,Germany,North America,386,4.33,29
+924,2021,Volkswagen,Volkswagen Sedan M2,Sedan,NMC,84.9,600,45594,Germany,Rest of World,112,4.33,26
+925,2022,Volkswagen,Volkswagen Sedan M2,Sedan,NMC,87.4,606,47729,Germany,Asia-Pacific,895,3.75,35
+926,2022,Volkswagen,Volkswagen Sedan M2,Sedan,NMC,87.4,606,47729,Germany,Europe,521,3.75,24
+927,2022,Volkswagen,Volkswagen Sedan M2,Sedan,NMC,87.4,606,47729,Germany,North America,378,3.75,26
+928,2022,Volkswagen,Volkswagen Sedan M2,Sedan,NMC,87.4,606,47729,Germany,Rest of World,129,3.75,24
+929,2023,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,89.8,548,39196,Germany,Asia-Pacific,1232,3.65,27
+930,2023,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,89.8,548,39196,Germany,Europe,583,3.65,15
+931,2023,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,89.8,548,39196,Germany,North America,341,3.65,18
+932,2023,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,89.8,548,39196,Germany,Rest of World,144,3.65,25
+933,2024,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,92.2,602,34138,Germany,Asia-Pacific,889,3.77,30
+934,2024,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,92.2,602,34138,Germany,Europe,586,3.77,31
+935,2024,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,92.2,602,34138,Germany,North America,478,3.77,27
+936,2024,Volkswagen,Volkswagen Sedan M2,Sedan,LFP,92.2,602,34138,Germany,Rest of World,264,3.77,19
+937,2019,Mahindra,Mahindra SUV M1,SUV,NCA,63.1,406,57470,India,Asia-Pacific,279,4.6,37
+938,2019,Mahindra,Mahindra SUV M1,SUV,NCA,63.1,406,57470,India,Europe,169,4.6,26
+939,2019,Mahindra,Mahindra SUV M1,SUV,NCA,63.1,406,57470,India,North America,172,4.6,31
+940,2019,Mahindra,Mahindra SUV M1,SUV,NCA,63.1,406,57470,India,Rest of World,83,4.6,33
+941,2020,Mahindra,Mahindra SUV M1,SUV,NCA,65.0,403,56255,India,Asia-Pacific,368,4.25,35
+942,2020,Mahindra,Mahindra SUV M1,SUV,NCA,65.0,403,56255,India,Europe,289,4.25,24
+943,2020,Mahindra,Mahindra SUV M1,SUV,NCA,65.0,403,56255,India,North America,193,4.25,27
+944,2020,Mahindra,Mahindra SUV M1,SUV,NCA,65.0,403,56255,India,Rest of World,98,4.25,36
+945,2021,Mahindra,Mahindra SUV M1,SUV,LFP,66.8,352,50126,India,Asia-Pacific,761,3.96,39
+946,2021,Mahindra,Mahindra SUV M1,SUV,LFP,66.8,352,50126,India,Europe,264,3.96,30
+947,2021,Mahindra,Mahindra SUV M1,SUV,LFP,66.8,352,50126,India,North America,365,3.96,24
+948,2021,Mahindra,Mahindra SUV M1,SUV,LFP,66.8,352,50126,India,Rest of World,126,3.96,33
+949,2022,Mahindra,Mahindra SUV M1,SUV,NMC,68.7,406,50986,India,Asia-Pacific,753,3.64,37
+950,2022,Mahindra,Mahindra SUV M1,SUV,NMC,68.7,406,50986,India,Europe,623,3.64,31
+951,2022,Mahindra,Mahindra SUV M1,SUV,NMC,68.7,406,50986,India,North America,439,3.64,24
+952,2022,Mahindra,Mahindra SUV M1,SUV,NMC,68.7,406,50986,India,Rest of World,122,3.64,17
+953,2023,Mahindra,Mahindra SUV M1,SUV,LFP,70.6,418,40472,India,Asia-Pacific,987,3.77,29
+954,2023,Mahindra,Mahindra SUV M1,SUV,LFP,70.6,418,40472,India,Europe,651,3.77,32
+955,2023,Mahindra,Mahindra SUV M1,SUV,LFP,70.6,418,40472,India,North America,710,3.77,34
+956,2023,Mahindra,Mahindra SUV M1,SUV,LFP,70.6,418,40472,India,Rest of World,268,3.77,29
+957,2024,Mahindra,Mahindra SUV M1,SUV,NMC,72.5,413,50385,India,Asia-Pacific,1501,3.87,28
+958,2024,Mahindra,Mahindra SUV M1,SUV,NMC,72.5,413,50385,India,Europe,653,3.87,22
+959,2024,Mahindra,Mahindra SUV M1,SUV,NMC,72.5,413,50385,India,North America,1043,3.87,18
+960,2024,Mahindra,Mahindra SUV M1,SUV,NMC,72.5,413,50385,India,Rest of World,312,3.87,26
+961,2019,Mahindra,Mahindra SUV M2,SUV,NMC,84.9,495,54259,India,Asia-Pacific,364,4.21,29
+962,2019,Mahindra,Mahindra SUV M2,SUV,NMC,84.9,495,54259,India,Europe,160,4.21,38
+963,2019,Mahindra,Mahindra SUV M2,SUV,NMC,84.9,495,54259,India,North America,182,4.21,24
+964,2019,Mahindra,Mahindra SUV M2,SUV,NMC,84.9,495,54259,India,Rest of World,72,4.21,29
+965,2020,Mahindra,Mahindra SUV M2,SUV,NMC,87.4,560,53133,India,Asia-Pacific,380,4.04,40
+966,2020,Mahindra,Mahindra SUV M2,SUV,NMC,87.4,560,53133,India,Europe,205,4.04,24
+967,2020,Mahindra,Mahindra SUV M2,SUV,NMC,87.4,560,53133,India,North America,180,4.04,26
+968,2020,Mahindra,Mahindra SUV M2,SUV,NMC,87.4,560,53133,India,Rest of World,70,4.04,23
+969,2021,Mahindra,Mahindra SUV M2,SUV,NMC,90.0,572,47820,India,Asia-Pacific,702,4.15,21
+970,2021,Mahindra,Mahindra SUV M2,SUV,NMC,90.0,572,47820,India,Europe,410,4.15,25
+971,2021,Mahindra,Mahindra SUV M2,SUV,NMC,90.0,572,47820,India,North America,425,4.15,36
+972,2021,Mahindra,Mahindra SUV M2,SUV,NMC,90.0,572,47820,India,Rest of World,144,4.15,25
+973,2022,Mahindra,Mahindra SUV M2,SUV,LFP,92.5,528,40218,India,Asia-Pacific,962,3.8,38
+974,2022,Mahindra,Mahindra SUV M2,SUV,LFP,92.5,528,40218,India,Europe,379,3.8,28
+975,2022,Mahindra,Mahindra SUV M2,SUV,LFP,92.5,528,40218,India,North America,391,3.8,27
+976,2022,Mahindra,Mahindra SUV M2,SUV,LFP,92.5,528,40218,India,Rest of World,187,3.8,38
+977,2023,Mahindra,Mahindra SUV M2,SUV,LFP,95.0,539,48156,India,Asia-Pacific,1104,3.61,25
+978,2023,Mahindra,Mahindra SUV M2,SUV,LFP,95.0,539,48156,India,Europe,784,3.61,14
+979,2023,Mahindra,Mahindra SUV M2,SUV,LFP,95.0,539,48156,India,North America,628,3.61,30
+980,2023,Mahindra,Mahindra SUV M2,SUV,LFP,95.0,539,48156,India,Rest of World,172,3.61,28
+981,2024,Mahindra,Mahindra SUV M2,SUV,NCA,97.6,627,46628,India,Asia-Pacific,1229,4.06,26
+982,2024,Mahindra,Mahindra SUV M2,SUV,NCA,97.6,627,46628,India,Europe,775,4.06,34
+983,2024,Mahindra,Mahindra SUV M2,SUV,NCA,97.6,627,46628,India,North America,914,4.06,38
+984,2024,Mahindra,Mahindra SUV M2,SUV,NCA,97.6,627,46628,India,Rest of World,208,4.06,32
+985,2019,Mahindra,Mahindra Truck M1,Truck,NMC,245.3,432,163677,India,Asia-Pacific,23,4.03,23
+986,2019,Mahindra,Mahindra Truck M1,Truck,NMC,245.3,432,163677,India,Europe,10,4.03,31
+987,2019,Mahindra,Mahindra Truck M1,Truck,NMC,245.3,432,163677,India,North America,12,4.03,45
+988,2019,Mahindra,Mahindra Truck M1,Truck,NMC,245.3,432,163677,India,Rest of World,4,4.03,41
+989,2020,Mahindra,Mahindra Truck M1,Truck,NMC,252.7,435,153306,India,Asia-Pacific,22,3.84,40
+990,2020,Mahindra,Mahindra Truck M1,Truck,NMC,252.7,435,153306,India,Europe,13,3.84,39
+991,2020,Mahindra,Mahindra Truck M1,Truck,NMC,252.7,435,153306,India,North America,13,3.84,40
+992,2020,Mahindra,Mahindra Truck M1,Truck,NMC,252.7,435,153306,India,Rest of World,6,3.84,45
+993,2021,Mahindra,Mahindra Truck M1,Truck,NMC,260.1,422,133441,India,Asia-Pacific,38,4.53,27
+994,2021,Mahindra,Mahindra Truck M1,Truck,NMC,260.1,422,133441,India,Europe,28,4.53,33
+995,2021,Mahindra,Mahindra Truck M1,Truck,NMC,260.1,422,133441,India,North America,22,4.53,20
+996,2021,Mahindra,Mahindra Truck M1,Truck,NMC,260.1,422,133441,India,Rest of World,8,4.53,26
+997,2022,Mahindra,Mahindra Truck M1,Truck,NMC,267.4,448,132359,India,Asia-Pacific,42,4.13,26
+998,2022,Mahindra,Mahindra Truck M1,Truck,NMC,267.4,448,132359,India,Europe,36,4.13,29
+999,2022,Mahindra,Mahindra Truck M1,Truck,NMC,267.4,448,132359,India,North America,24,4.13,24
+1000,2022,Mahindra,Mahindra Truck M1,Truck,NMC,267.4,448,132359,India,Rest of World,9,4.13,34
+1001,2023,Mahindra,Mahindra Truck M1,Truck,NCA,274.8,502,157422,India,Asia-Pacific,99,3.47,36
+1002,2023,Mahindra,Mahindra Truck M1,Truck,NCA,274.8,502,157422,India,Europe,31,3.47,22
+1003,2023,Mahindra,Mahindra Truck M1,Truck,NCA,274.8,502,157422,India,North America,35,3.47,27
+1004,2023,Mahindra,Mahindra Truck M1,Truck,NCA,274.8,502,157422,India,Rest of World,17,3.47,19
+1005,2024,Mahindra,Mahindra Truck M1,Truck,Sodium-Ion,282.1,374,116083,India,Asia-Pacific,97,3.99,28
+1006,2024,Mahindra,Mahindra Truck M1,Truck,Sodium-Ion,282.1,374,116083,India,Europe,49,3.99,28
+1007,2024,Mahindra,Mahindra Truck M1,Truck,Sodium-Ion,282.1,374,116083,India,North America,46,3.99,25
+1008,2024,Mahindra,Mahindra Truck M1,Truck,Sodium-Ion,282.1,374,116083,India,Rest of World,21,3.99,25
+1009,2019,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.5,138,2225,India,Asia-Pacific,1435,3.71,35
+1010,2019,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.5,138,2225,India,Europe,898,3.71,40
+1011,2019,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.5,138,2225,India,North America,716,3.71,26
+1012,2019,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.5,138,2225,India,Rest of World,328,3.71,31
+1013,2020,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NMC,4.7,166,2441,India,Asia-Pacific,1980,3.73,28
+1014,2020,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NMC,4.7,166,2441,India,Europe,1642,3.73,31
+1015,2020,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NMC,4.7,166,2441,India,North America,1538,3.73,31
+1016,2020,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NMC,4.7,166,2441,India,Rest of World,541,3.73,30
+1017,2021,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.8,136,2486,India,Asia-Pacific,4527,3.59,30
+1018,2021,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.8,136,2486,India,Europe,2399,3.59,34
+1019,2021,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.8,136,2486,India,North America,2248,3.59,24
+1020,2021,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.8,136,2486,India,Rest of World,471,3.59,19
+1021,2022,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.9,138,1986,India,Asia-Pacific,4072,3.52,25
+1022,2022,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.9,138,1986,India,Europe,3809,3.52,32
+1023,2022,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.9,138,1986,India,North America,3459,3.52,22
+1024,2022,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,LFP,4.9,138,1986,India,Rest of World,766,3.52,34
+1025,2023,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NMC,5.1,173,2045,India,Asia-Pacific,5935,3.65,20
+1026,2023,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NMC,5.1,173,2045,India,Europe,5711,3.65,23
+1027,2023,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NMC,5.1,173,2045,India,North America,4381,3.65,30
+1028,2023,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NMC,5.1,173,2045,India,Rest of World,1565,3.65,24
+1029,2024,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NCA,5.2,175,2031,India,Asia-Pacific,14562,3.89,26
+1030,2024,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NCA,5.2,175,2031,India,Europe,6377,3.89,21
+1031,2024,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NCA,5.2,175,2031,India,North America,4143,3.89,33
+1032,2024,Ola Electric,Ola Electric Two-Wheeler M1,Two-Wheeler,NCA,5.2,175,2031,India,Rest of World,2330,3.89,30
+1033,2019,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,2.6,74,2085,India,Asia-Pacific,1007,3.79,34
+1034,2019,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,2.6,74,2085,India,Europe,466,3.79,36
+1035,2019,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,2.6,74,2085,India,North America,332,3.79,33
+1036,2019,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,2.6,74,2085,India,Rest of World,201,3.79,31
+1037,2020,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NCA,2.7,99,2705,India,Asia-Pacific,1239,4.25,31
+1038,2020,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NCA,2.7,99,2705,India,Europe,534,4.25,27
+1039,2020,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NCA,2.7,99,2705,India,North America,483,4.25,38
+1040,2020,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NCA,2.7,99,2705,India,Rest of World,260,4.25,34
+1041,2021,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NMC,2.7,84,2556,India,Asia-Pacific,1339,3.85,31
+1042,2021,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NMC,2.7,84,2556,India,Europe,944,3.85,31
+1043,2021,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NMC,2.7,84,2556,India,North America,1098,3.85,28
+1044,2021,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NMC,2.7,84,2556,India,Rest of World,375,3.85,31
+1045,2022,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NMC,2.8,95,2164,India,Asia-Pacific,2716,4.02,23
+1046,2022,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NMC,2.8,95,2164,India,Europe,1169,4.02,26
+1047,2022,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NMC,2.8,95,2164,India,North America,1019,4.02,24
+1048,2022,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,NMC,2.8,95,2164,India,Rest of World,380,4.02,31
+1049,2023,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,2.9,84,1996,India,Asia-Pacific,4128,4.09,23
+1050,2023,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,2.9,84,1996,India,Europe,1944,4.09,20
+1051,2023,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,2.9,84,1996,India,North America,2010,4.09,31
+1052,2023,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,2.9,84,1996,India,Rest of World,835,4.09,27
+1053,2024,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,3.0,96,2050,India,Asia-Pacific,5730,4.04,28
+1054,2024,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,3.0,96,2050,India,Europe,3789,4.04,17
+1055,2024,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,3.0,96,2050,India,North America,2496,4.04,29
+1056,2024,Ather Energy,Ather Energy Two-Wheeler M1,Two-Wheeler,LFP,3.0,96,2050,India,Rest of World,744,4.04,17
+1057,2019,NIO,NIO Sedan M1,Sedan,NMC,58.2,405,45936,China,Asia-Pacific,227,3.84,24
+1058,2019,NIO,NIO Sedan M1,Sedan,NMC,58.2,405,45936,China,Europe,85,3.84,38
+1059,2019,NIO,NIO Sedan M1,Sedan,NMC,58.2,405,45936,China,North America,101,3.84,30
+1060,2019,NIO,NIO Sedan M1,Sedan,NMC,58.2,405,45936,China,Rest of World,39,3.84,29
+1061,2020,NIO,NIO Sedan M1,Sedan,NCA,60.0,447,50517,China,Asia-Pacific,180,4.36,28
+1062,2020,NIO,NIO Sedan M1,Sedan,NCA,60.0,447,50517,China,Europe,94,4.36,32
+1063,2020,NIO,NIO Sedan M1,Sedan,NCA,60.0,447,50517,China,North America,87,4.36,27
+1064,2020,NIO,NIO Sedan M1,Sedan,NCA,60.0,447,50517,China,Rest of World,45,4.36,30
+1065,2021,NIO,NIO Sedan M1,Sedan,NMC,61.7,412,45540,China,Asia-Pacific,321,4.17,36
+1066,2021,NIO,NIO Sedan M1,Sedan,NMC,61.7,412,45540,China,Europe,156,4.17,35
+1067,2021,NIO,NIO Sedan M1,Sedan,NMC,61.7,412,45540,China,North America,177,4.17,30
+1068,2021,NIO,NIO Sedan M1,Sedan,NMC,61.7,412,45540,China,Rest of World,50,4.17,18
+1069,2022,NIO,NIO Sedan M1,Sedan,LFP,63.5,441,39489,China,Asia-Pacific,442,3.98,20
+1070,2022,NIO,NIO Sedan M1,Sedan,LFP,63.5,441,39489,China,Europe,137,3.98,19
+1071,2022,NIO,NIO Sedan M1,Sedan,LFP,63.5,441,39489,China,North America,118,3.98,37
+1072,2022,NIO,NIO Sedan M1,Sedan,LFP,63.5,441,39489,China,Rest of World,44,3.98,33
+1073,2023,NIO,NIO Sedan M1,Sedan,NCA,65.2,490,47035,China,Asia-Pacific,301,4.27,20
+1074,2023,NIO,NIO Sedan M1,Sedan,NCA,65.2,490,47035,China,Europe,172,4.27,22
+1075,2023,NIO,NIO Sedan M1,Sedan,NCA,65.2,490,47035,China,North America,176,4.27,28
+1076,2023,NIO,NIO Sedan M1,Sedan,NCA,65.2,490,47035,China,Rest of World,69,4.27,29
+1077,2024,NIO,NIO Sedan M1,Sedan,NMC,67.0,487,45824,China,Asia-Pacific,592,4.1,25
+1078,2024,NIO,NIO Sedan M1,Sedan,NMC,67.0,487,45824,China,Europe,226,4.1,31
+1079,2024,NIO,NIO Sedan M1,Sedan,NMC,67.0,487,45824,China,North America,207,4.1,28
+1080,2024,NIO,NIO Sedan M1,Sedan,NMC,67.0,487,45824,China,Rest of World,73,4.1,35
+1081,2019,NIO,NIO SUV M1,SUV,NMC,74.3,477,50600,China,Asia-Pacific,279,4.13,29
+1082,2019,NIO,NIO SUV M1,SUV,NMC,74.3,477,50600,China,Europe,136,4.13,15
+1083,2019,NIO,NIO SUV M1,SUV,NMC,74.3,477,50600,China,North America,151,4.13,30
+1084,2019,NIO,NIO SUV M1,SUV,NMC,74.3,477,50600,China,Rest of World,64,4.13,38
+1085,2020,NIO,NIO SUV M1,SUV,NMC,76.6,455,45810,China,Asia-Pacific,302,3.57,36
+1086,2020,NIO,NIO SUV M1,SUV,NMC,76.6,455,45810,China,Europe,231,3.57,26
+1087,2020,NIO,NIO SUV M1,SUV,NMC,76.6,455,45810,China,North America,211,3.57,41
+1088,2020,NIO,NIO SUV M1,SUV,NMC,76.6,455,45810,China,Rest of World,82,3.57,27
+1089,2021,NIO,NIO SUV M1,SUV,LFP,78.8,422,47096,China,Asia-Pacific,501,3.66,27
+1090,2021,NIO,NIO SUV M1,SUV,LFP,78.8,422,47096,China,Europe,349,3.66,28
+1091,2021,NIO,NIO SUV M1,SUV,LFP,78.8,422,47096,China,North America,215,3.66,26
+1092,2021,NIO,NIO SUV M1,SUV,LFP,78.8,422,47096,China,Rest of World,123,3.66,26
+1093,2022,NIO,NIO SUV M1,SUV,NCA,81.0,484,51168,China,Asia-Pacific,537,3.97,31
+1094,2022,NIO,NIO SUV M1,SUV,NCA,81.0,484,51168,China,Europe,411,3.97,34
+1095,2022,NIO,NIO SUV M1,SUV,NCA,81.0,484,51168,China,North America,324,3.97,46
+1096,2022,NIO,NIO SUV M1,SUV,NCA,81.0,484,51168,China,Rest of World,169,3.97,31
+1097,2023,NIO,NIO SUV M1,SUV,LFP,83.2,471,43929,China,Asia-Pacific,990,3.87,26
+1098,2023,NIO,NIO SUV M1,SUV,LFP,83.2,471,43929,China,Europe,446,3.87,33
+1099,2023,NIO,NIO SUV M1,SUV,LFP,83.2,471,43929,China,North America,645,3.87,26
+1100,2023,NIO,NIO SUV M1,SUV,LFP,83.2,471,43929,China,Rest of World,209,3.87,34
+1101,2024,NIO,NIO SUV M1,SUV,LFP,85.5,440,44080,China,Asia-Pacific,1028,4.04,31
+1102,2024,NIO,NIO SUV M1,SUV,LFP,85.5,440,44080,China,Europe,781,4.04,29
+1103,2024,NIO,NIO SUV M1,SUV,LFP,85.5,440,44080,China,North America,832,4.04,21
+1104,2024,NIO,NIO SUV M1,SUV,LFP,85.5,440,44080,China,Rest of World,248,4.04,26
+1105,2019,NIO,NIO SUV M2,SUV,LFP,82.8,466,44658,China,Asia-Pacific,226,3.93,34
+1106,2019,NIO,NIO SUV M2,SUV,LFP,82.8,466,44658,China,Europe,144,3.93,22
+1107,2019,NIO,NIO SUV M2,SUV,LFP,82.8,466,44658,China,North America,177,3.93,36
+1108,2019,NIO,NIO SUV M2,SUV,LFP,82.8,466,44658,China,Rest of World,66,3.93,36
+1109,2020,NIO,NIO SUV M2,SUV,LFP,85.3,481,46435,China,Asia-Pacific,424,4.04,25
+1110,2020,NIO,NIO SUV M2,SUV,LFP,85.3,481,46435,China,Europe,284,4.04,33
+1111,2020,NIO,NIO SUV M2,SUV,LFP,85.3,481,46435,China,North America,243,4.04,25
+1112,2020,NIO,NIO SUV M2,SUV,LFP,85.3,481,46435,China,Rest of World,76,4.04,14
+1113,2021,NIO,NIO SUV M2,SUV,LFP,87.8,450,46835,China,Asia-Pacific,503,3.75,29
+1114,2021,NIO,NIO SUV M2,SUV,LFP,87.8,450,46835,China,Europe,331,3.75,30
+1115,2021,NIO,NIO SUV M2,SUV,LFP,87.8,450,46835,China,North America,224,3.75,32
+1116,2021,NIO,NIO SUV M2,SUV,LFP,87.8,450,46835,China,Rest of World,92,3.75,29
+1117,2022,NIO,NIO SUV M2,SUV,LFP,90.3,510,47554,China,Asia-Pacific,908,3.94,19
+1118,2022,NIO,NIO SUV M2,SUV,LFP,90.3,510,47554,China,Europe,437,3.94,28
+1119,2022,NIO,NIO SUV M2,SUV,LFP,90.3,510,47554,China,North America,268,3.94,32
+1120,2022,NIO,NIO SUV M2,SUV,LFP,90.3,510,47554,China,Rest of World,158,3.94,22
+1121,2023,NIO,NIO SUV M2,SUV,NCA,92.8,541,53072,China,Asia-Pacific,1206,4.55,26
+1122,2023,NIO,NIO SUV M2,SUV,NCA,92.8,541,53072,China,Europe,498,4.55,27
+1123,2023,NIO,NIO SUV M2,SUV,NCA,92.8,541,53072,China,North America,590,4.55,17
+1124,2023,NIO,NIO SUV M2,SUV,NCA,92.8,541,53072,China,Rest of World,160,4.55,20
+1125,2024,NIO,NIO SUV M2,SUV,Sodium-Ion,95.3,441,38403,China,Asia-Pacific,1311,4.1,20
+1126,2024,NIO,NIO SUV M2,SUV,Sodium-Ion,95.3,441,38403,China,Europe,739,4.1,14
+1127,2024,NIO,NIO SUV M2,SUV,Sodium-Ion,95.3,441,38403,China,North America,844,4.1,28
+1128,2024,NIO,NIO SUV M2,SUV,Sodium-Ion,95.3,441,38403,China,Rest of World,256,4.1,21
+1129,2019,Volvo,Volvo SUV M1,SUV,NMC,101.1,631,56546,Sweden,Asia-Pacific,312,3.96,34
+1130,2019,Volvo,Volvo SUV M1,SUV,NMC,101.1,631,56546,Sweden,Europe,151,3.96,22
+1131,2019,Volvo,Volvo SUV M1,SUV,NMC,101.1,631,56546,Sweden,North America,93,3.96,18
+1132,2019,Volvo,Volvo SUV M1,SUV,NMC,101.1,631,56546,Sweden,Rest of World,51,3.96,32
+1133,2020,Volvo,Volvo SUV M1,SUV,NCA,104.1,681,57706,Sweden,Asia-Pacific,445,4.11,31
+1134,2020,Volvo,Volvo SUV M1,SUV,NCA,104.1,681,57706,Sweden,Europe,212,4.11,30
+1135,2020,Volvo,Volvo SUV M1,SUV,NCA,104.1,681,57706,Sweden,North America,195,4.11,37
+1136,2020,Volvo,Volvo SUV M1,SUV,NCA,104.1,681,57706,Sweden,Rest of World,67,4.11,47
+1137,2021,Volvo,Volvo SUV M1,SUV,NMC,107.2,667,47435,Sweden,Asia-Pacific,557,4.52,19
+1138,2021,Volvo,Volvo SUV M1,SUV,NMC,107.2,667,47435,Sweden,Europe,353,4.52,27
+1139,2021,Volvo,Volvo SUV M1,SUV,NMC,107.2,667,47435,Sweden,North America,279,4.52,21
+1140,2021,Volvo,Volvo SUV M1,SUV,NMC,107.2,667,47435,Sweden,Rest of World,70,4.52,25
+1141,2022,Volvo,Volvo SUV M1,SUV,NMC,110.2,668,53014,Sweden,Asia-Pacific,621,4.55,28
+1142,2022,Volvo,Volvo SUV M1,SUV,NMC,110.2,668,53014,Sweden,Europe,357,4.55,35
+1143,2022,Volvo,Volvo SUV M1,SUV,NMC,110.2,668,53014,Sweden,North America,259,4.55,25
+1144,2022,Volvo,Volvo SUV M1,SUV,NMC,110.2,668,53014,Sweden,Rest of World,117,4.55,25
+1145,2023,Volvo,Volvo SUV M1,SUV,LFP,113.2,619,39857,Sweden,Asia-Pacific,1064,4.49,35
+1146,2023,Volvo,Volvo SUV M1,SUV,LFP,113.2,619,39857,Sweden,Europe,530,4.49,28
+1147,2023,Volvo,Volvo SUV M1,SUV,LFP,113.2,619,39857,Sweden,North America,389,4.49,25
+1148,2023,Volvo,Volvo SUV M1,SUV,LFP,113.2,619,39857,Sweden,Rest of World,165,4.49,27
+1149,2024,Volvo,Volvo SUV M1,SUV,LFP,116.3,622,41810,Sweden,Asia-Pacific,1585,4.12,34
+1150,2024,Volvo,Volvo SUV M1,SUV,LFP,116.3,622,41810,Sweden,Europe,821,4.12,34
+1151,2024,Volvo,Volvo SUV M1,SUV,LFP,116.3,622,41810,Sweden,North America,615,4.12,16
+1152,2024,Volvo,Volvo SUV M1,SUV,LFP,116.3,622,41810,Sweden,Rest of World,219,4.12,32
+1153,2019,Volvo,Volvo Truck M1,Truck,NMC,269.9,475,158350,Sweden,Asia-Pacific,16,3.99,32
+1154,2019,Volvo,Volvo Truck M1,Truck,NMC,269.9,475,158350,Sweden,Europe,10,3.99,37
+1155,2019,Volvo,Volvo Truck M1,Truck,NMC,269.9,475,158350,Sweden,North America,9,3.99,39
+1156,2019,Volvo,Volvo Truck M1,Truck,NMC,269.9,475,158350,Sweden,Rest of World,3,3.99,38
+1157,2020,Volvo,Volvo Truck M1,Truck,NCA,278.0,464,166599,Sweden,Asia-Pacific,18,4.02,25
+1158,2020,Volvo,Volvo Truck M1,Truck,NCA,278.0,464,166599,Sweden,Europe,10,4.02,32
+1159,2020,Volvo,Volvo Truck M1,Truck,NCA,278.0,464,166599,Sweden,North America,12,4.02,30
+1160,2020,Volvo,Volvo Truck M1,Truck,NCA,278.0,464,166599,Sweden,Rest of World,4,4.02,37
+1161,2021,Volvo,Volvo Truck M1,Truck,NMC,286.1,494,141194,Sweden,Asia-Pacific,36,4.38,22
+1162,2021,Volvo,Volvo Truck M1,Truck,NMC,286.1,494,141194,Sweden,Europe,15,4.38,39
+1163,2021,Volvo,Volvo Truck M1,Truck,NMC,286.1,494,141194,Sweden,North America,16,4.38,32
+1164,2021,Volvo,Volvo Truck M1,Truck,NMC,286.1,494,141194,Sweden,Rest of World,6,4.38,23
+1165,2022,Volvo,Volvo Truck M1,Truck,NMC,294.2,453,124730,Sweden,Asia-Pacific,49,4.32,27
+1166,2022,Volvo,Volvo Truck M1,Truck,NMC,294.2,453,124730,Sweden,Europe,28,4.32,26
+1167,2022,Volvo,Volvo Truck M1,Truck,NMC,294.2,453,124730,Sweden,North America,17,4.32,28
+1168,2022,Volvo,Volvo Truck M1,Truck,NMC,294.2,453,124730,Sweden,Rest of World,7,4.32,32
+1169,2023,Volvo,Volvo Truck M1,Truck,NCA,302.3,480,130481,Sweden,Asia-Pacific,46,3.68,36
+1170,2023,Volvo,Volvo Truck M1,Truck,NCA,302.3,480,130481,Sweden,Europe,34,3.68,19
+1171,2023,Volvo,Volvo Truck M1,Truck,NCA,302.3,480,130481,Sweden,North America,29,3.68,26
+1172,2023,Volvo,Volvo Truck M1,Truck,NCA,302.3,480,130481,Sweden,Rest of World,10,3.68,26
+1173,2024,Volvo,Volvo Truck M1,Truck,LFP,310.3,440,116152,Sweden,Asia-Pacific,85,3.67,23
+1174,2024,Volvo,Volvo Truck M1,Truck,LFP,310.3,440,116152,Sweden,Europe,43,3.67,21
+1175,2024,Volvo,Volvo Truck M1,Truck,LFP,310.3,440,116152,Sweden,North America,42,3.67,28
+1176,2024,Volvo,Volvo Truck M1,Truck,LFP,310.3,440,116152,Sweden,Rest of World,17,3.67,28
+1177,2019,Volvo,Volvo Truck M2,Truck,LFP,246.4,346,157497,Sweden,Asia-Pacific,14,3.81,27
+1178,2019,Volvo,Volvo Truck M2,Truck,LFP,246.4,346,157497,Sweden,Europe,6,3.81,38
+1179,2019,Volvo,Volvo Truck M2,Truck,LFP,246.4,346,157497,Sweden,North America,6,3.81,37
+1180,2019,Volvo,Volvo Truck M2,Truck,LFP,246.4,346,157497,Sweden,Rest of World,2,3.81,30
+1181,2020,Volvo,Volvo Truck M2,Truck,LFP,253.8,399,126379,Sweden,Asia-Pacific,23,4.18,23
+1182,2020,Volvo,Volvo Truck M2,Truck,LFP,253.8,399,126379,Sweden,Europe,10,4.18,39
+1183,2020,Volvo,Volvo Truck M2,Truck,LFP,253.8,399,126379,Sweden,North America,12,4.18,35
+1184,2020,Volvo,Volvo Truck M2,Truck,LFP,253.8,399,126379,Sweden,Rest of World,3,4.18,33
+1185,2021,Volvo,Volvo Truck M2,Truck,LFP,261.2,380,119551,Sweden,Asia-Pacific,27,4.09,29
+1186,2021,Volvo,Volvo Truck M2,Truck,LFP,261.2,380,119551,Sweden,Europe,11,4.09,18
+1187,2021,Volvo,Volvo Truck M2,Truck,LFP,261.2,380,119551,Sweden,North America,17,4.09,30
+1188,2021,Volvo,Volvo Truck M2,Truck,LFP,261.2,380,119551,Sweden,Rest of World,5,4.09,21
+1189,2022,Volvo,Volvo Truck M2,Truck,LFP,268.6,384,117402,Sweden,Asia-Pacific,42,3.98,40
+1190,2022,Volvo,Volvo Truck M2,Truck,LFP,268.6,384,117402,Sweden,Europe,24,3.98,29
+1191,2022,Volvo,Volvo Truck M2,Truck,LFP,268.6,384,117402,Sweden,North America,18,3.98,25
+1192,2022,Volvo,Volvo Truck M2,Truck,LFP,268.6,384,117402,Sweden,Rest of World,8,3.98,36
+1193,2023,Volvo,Volvo Truck M2,Truck,NMC,276.0,439,121285,Sweden,Asia-Pacific,45,4.67,23
+1194,2023,Volvo,Volvo Truck M2,Truck,NMC,276.0,439,121285,Sweden,Europe,31,4.67,35
+1195,2023,Volvo,Volvo Truck M2,Truck,NMC,276.0,439,121285,Sweden,North America,21,4.67,41
+1196,2023,Volvo,Volvo Truck M2,Truck,NMC,276.0,439,121285,Sweden,Rest of World,12,4.67,35
+1197,2024,Volvo,Volvo Truck M2,Truck,LFP,283.4,393,124438,Sweden,Asia-Pacific,81,4.37,25
+1198,2024,Volvo,Volvo Truck M2,Truck,LFP,283.4,393,124438,Sweden,Europe,42,4.37,21
+1199,2024,Volvo,Volvo Truck M2,Truck,LFP,283.4,393,124438,Sweden,North America,28,4.37,23
+1200,2024,Volvo,Volvo Truck M2,Truck,LFP,283.4,393,124438,Sweden,Rest of World,13,4.37,26
+1201,2019,Volvo,Volvo Bus M1,Bus,NMC,286.1,351,262717,Sweden,Asia-Pacific,9,3.98,28
+1202,2019,Volvo,Volvo Bus M1,Bus,NMC,286.1,351,262717,Sweden,Europe,5,3.98,38
+1203,2019,Volvo,Volvo Bus M1,Bus,NMC,286.1,351,262717,Sweden,North America,4,3.98,44
+1204,2019,Volvo,Volvo Bus M1,Bus,NMC,286.1,351,262717,Sweden,Rest of World,1,3.98,26
+1205,2020,Volvo,Volvo Bus M1,Bus,NCA,294.7,421,313826,Sweden,Asia-Pacific,10,4.38,30
+1206,2020,Volvo,Volvo Bus M1,Bus,NCA,294.7,421,313826,Sweden,Europe,6,4.38,23
+1207,2020,Volvo,Volvo Bus M1,Bus,NCA,294.7,421,313826,Sweden,North America,5,4.38,38
+1208,2020,Volvo,Volvo Bus M1,Bus,NCA,294.7,421,313826,Sweden,Rest of World,2,4.38,22
+1209,2021,Volvo,Volvo Bus M1,Bus,LFP,303.3,376,264003,Sweden,Asia-Pacific,17,3.84,20
+1210,2021,Volvo,Volvo Bus M1,Bus,LFP,303.3,376,264003,Sweden,Europe,8,3.84,27
+1211,2021,Volvo,Volvo Bus M1,Bus,LFP,303.3,376,264003,Sweden,North America,8,3.84,29
+1212,2021,Volvo,Volvo Bus M1,Bus,LFP,303.3,376,264003,Sweden,Rest of World,2,3.84,31
+1213,2022,Volvo,Volvo Bus M1,Bus,LFP,311.9,356,222700,Sweden,Asia-Pacific,18,4.09,39
+1214,2022,Volvo,Volvo Bus M1,Bus,LFP,311.9,356,222700,Sweden,Europe,11,4.09,28
+1215,2022,Volvo,Volvo Bus M1,Bus,LFP,311.9,356,222700,Sweden,North America,10,4.09,30
+1216,2022,Volvo,Volvo Bus M1,Bus,LFP,311.9,356,222700,Sweden,Rest of World,2,4.09,30
+1217,2023,Volvo,Volvo Bus M1,Bus,LFP,320.4,381,248080,Sweden,Asia-Pacific,21,3.72,28
+1218,2023,Volvo,Volvo Bus M1,Bus,LFP,320.4,381,248080,Sweden,Europe,11,3.72,30
+1219,2023,Volvo,Volvo Bus M1,Bus,LFP,320.4,381,248080,Sweden,North America,9,3.72,15
+1220,2023,Volvo,Volvo Bus M1,Bus,LFP,320.4,381,248080,Sweden,Rest of World,3,3.72,39
+1221,2024,Volvo,Volvo Bus M1,Bus,LFP,329.0,366,242779,Sweden,Asia-Pacific,26,4.02,29
+1222,2024,Volvo,Volvo Bus M1,Bus,LFP,329.0,366,242779,Sweden,Europe,17,4.02,23
+1223,2024,Volvo,Volvo Bus M1,Bus,LFP,329.0,366,242779,Sweden,North America,18,4.02,27
+1224,2024,Volvo,Volvo Bus M1,Bus,LFP,329.0,366,242779,Sweden,Rest of World,6,4.02,28
+1225,2019,Ford,Ford SUV M1,SUV,NMC,82.0,462,56654,USA,Asia-Pacific,278,3.42,39
+1226,2019,Ford,Ford SUV M1,SUV,NMC,82.0,462,56654,USA,Europe,259,3.42,27
+1227,2019,Ford,Ford SUV M1,SUV,NMC,82.0,462,56654,USA,North America,184,3.42,25
+1228,2019,Ford,Ford SUV M1,SUV,NMC,82.0,462,56654,USA,Rest of World,84,3.42,31
+1229,2020,Ford,Ford SUV M1,SUV,LFP,84.5,479,44334,USA,Asia-Pacific,357,3.98,29
+1230,2020,Ford,Ford SUV M1,SUV,LFP,84.5,479,44334,USA,Europe,288,3.98,29
+1231,2020,Ford,Ford SUV M1,SUV,LFP,84.5,479,44334,USA,North America,266,3.98,33
+1232,2020,Ford,Ford SUV M1,SUV,LFP,84.5,479,44334,USA,Rest of World,84,3.98,29
+1233,2021,Ford,Ford SUV M1,SUV,LFP,86.9,455,44026,USA,Asia-Pacific,481,4.04,32
+1234,2021,Ford,Ford SUV M1,SUV,LFP,86.9,455,44026,USA,Europe,413,4.04,29
+1235,2021,Ford,Ford SUV M1,SUV,LFP,86.9,455,44026,USA,North America,417,4.04,35
+1236,2021,Ford,Ford SUV M1,SUV,LFP,86.9,455,44026,USA,Rest of World,125,4.04,28
+1237,2022,Ford,Ford SUV M1,SUV,NMC,89.4,502,47825,USA,Asia-Pacific,873,3.97,23
+1238,2022,Ford,Ford SUV M1,SUV,NMC,89.4,502,47825,USA,Europe,564,3.97,45
+1239,2022,Ford,Ford SUV M1,SUV,NMC,89.4,502,47825,USA,North America,518,3.97,28
+1240,2022,Ford,Ford SUV M1,SUV,NMC,89.4,502,47825,USA,Rest of World,166,3.97,25
+1241,2023,Ford,Ford SUV M1,SUV,NMC,91.9,559,44547,USA,Asia-Pacific,1555,3.5,16
+1242,2023,Ford,Ford SUV M1,SUV,NMC,91.9,559,44547,USA,Europe,675,3.5,43
+1243,2023,Ford,Ford SUV M1,SUV,NMC,91.9,559,44547,USA,North America,571,3.5,17
+1244,2023,Ford,Ford SUV M1,SUV,NMC,91.9,559,44547,USA,Rest of World,191,3.5,22
+1245,2024,Ford,Ford SUV M1,SUV,NMC,94.3,528,49064,USA,Asia-Pacific,1847,3.86,24
+1246,2024,Ford,Ford SUV M1,SUV,NMC,94.3,528,49064,USA,Europe,1009,3.86,24
+1247,2024,Ford,Ford SUV M1,SUV,NMC,94.3,528,49064,USA,North America,927,3.86,28
+1248,2024,Ford,Ford SUV M1,SUV,NMC,94.3,528,49064,USA,Rest of World,249,3.86,23
+1249,2019,Ford,Ford Truck M1,Truck,NMC,191.7,310,157644,USA,Asia-Pacific,23,4.13,37
+1250,2019,Ford,Ford Truck M1,Truck,NMC,191.7,310,157644,USA,Europe,12,4.13,29
+1251,2019,Ford,Ford Truck M1,Truck,NMC,191.7,310,157644,USA,North America,9,4.13,34
+1252,2019,Ford,Ford Truck M1,Truck,NMC,191.7,310,157644,USA,Rest of World,3,4.13,38
+1253,2020,Ford,Ford Truck M1,Truck,NCA,197.4,330,159031,USA,Asia-Pacific,30,3.91,33
+1254,2020,Ford,Ford Truck M1,Truck,NCA,197.4,330,159031,USA,Europe,14,3.91,25
+1255,2020,Ford,Ford Truck M1,Truck,NCA,197.4,330,159031,USA,North America,10,3.91,41
+1256,2020,Ford,Ford Truck M1,Truck,NCA,197.4,330,159031,USA,Rest of World,6,3.91,28
+1257,2021,Ford,Ford Truck M1,Truck,LFP,203.2,326,117508,USA,Asia-Pacific,44,3.73,27
+1258,2021,Ford,Ford Truck M1,Truck,LFP,203.2,326,117508,USA,Europe,24,3.73,20
+1259,2021,Ford,Ford Truck M1,Truck,LFP,203.2,326,117508,USA,North America,24,3.73,33
+1260,2021,Ford,Ford Truck M1,Truck,LFP,203.2,326,117508,USA,Rest of World,9,3.73,23
+1261,2022,Ford,Ford Truck M1,Truck,NCA,208.9,346,134490,USA,Asia-Pacific,56,3.74,30
+1262,2022,Ford,Ford Truck M1,Truck,NCA,208.9,346,134490,USA,Europe,38,3.74,12
+1263,2022,Ford,Ford Truck M1,Truck,NCA,208.9,346,134490,USA,North America,24,3.74,29
+1264,2022,Ford,Ford Truck M1,Truck,NCA,208.9,346,134490,USA,Rest of World,7,3.74,30
+1265,2023,Ford,Ford Truck M1,Truck,LFP,214.7,338,131482,USA,Asia-Pacific,71,3.79,24
+1266,2023,Ford,Ford Truck M1,Truck,LFP,214.7,338,131482,USA,Europe,51,3.79,26
+1267,2023,Ford,Ford Truck M1,Truck,LFP,214.7,338,131482,USA,North America,39,3.79,36
+1268,2023,Ford,Ford Truck M1,Truck,LFP,214.7,338,131482,USA,Rest of World,13,3.79,32
+1269,2024,Ford,Ford Truck M1,Truck,NCA,220.4,373,135112,USA,Asia-Pacific,110,3.85,31
+1270,2024,Ford,Ford Truck M1,Truck,NCA,220.4,373,135112,USA,Europe,66,3.85,27
+1271,2024,Ford,Ford Truck M1,Truck,NCA,220.4,373,135112,USA,North America,44,3.85,20
+1272,2024,Ford,Ford Truck M1,Truck,NCA,220.4,373,135112,USA,Rest of World,17,3.85,24
+1273,2019,Ford,Ford Truck M2,Truck,NMC,181.1,300,166074,USA,Asia-Pacific,25,3.87,30
+1274,2019,Ford,Ford Truck M2,Truck,NMC,181.1,300,166074,USA,Europe,11,3.87,31
+1275,2019,Ford,Ford Truck M2,Truck,NMC,181.1,300,166074,USA,North America,7,3.87,43
+1276,2019,Ford,Ford Truck M2,Truck,NMC,181.1,300,166074,USA,Rest of World,3,3.87,17
+1277,2020,Ford,Ford Truck M2,Truck,NMC,186.5,307,134340,USA,Asia-Pacific,23,3.7,26
+1278,2020,Ford,Ford Truck M2,Truck,NMC,186.5,307,134340,USA,Europe,16,3.7,28
+1279,2020,Ford,Ford Truck M2,Truck,NMC,186.5,307,134340,USA,North America,17,3.7,19
+1280,2020,Ford,Ford Truck M2,Truck,NMC,186.5,307,134340,USA,Rest of World,3,3.7,30
+1281,2021,Ford,Ford Truck M2,Truck,LFP,192.0,284,147990,USA,Asia-Pacific,44,4.03,39
+1282,2021,Ford,Ford Truck M2,Truck,LFP,192.0,284,147990,USA,Europe,23,4.03,23
+1283,2021,Ford,Ford Truck M2,Truck,LFP,192.0,284,147990,USA,North America,24,4.03,39
+1284,2021,Ford,Ford Truck M2,Truck,LFP,192.0,284,147990,USA,Rest of World,6,4.03,32
+1285,2022,Ford,Ford Truck M2,Truck,LFP,197.4,305,121976,USA,Asia-Pacific,41,3.55,30
+1286,2022,Ford,Ford Truck M2,Truck,LFP,197.4,305,121976,USA,Europe,29,3.55,30
+1287,2022,Ford,Ford Truck M2,Truck,LFP,197.4,305,121976,USA,North America,34,3.55,30
+1288,2022,Ford,Ford Truck M2,Truck,LFP,197.4,305,121976,USA,Rest of World,10,3.55,36
+1289,2023,Ford,Ford Truck M2,Truck,LFP,202.8,289,111626,USA,Asia-Pacific,77,3.86,24
+1290,2023,Ford,Ford Truck M2,Truck,LFP,202.8,289,111626,USA,Europe,32,3.86,22
+1291,2023,Ford,Ford Truck M2,Truck,LFP,202.8,289,111626,USA,North America,39,3.86,18
+1292,2023,Ford,Ford Truck M2,Truck,LFP,202.8,289,111626,USA,Rest of World,12,3.86,20
+1293,2024,Ford,Ford Truck M2,Truck,LFP,208.3,310,135997,USA,Asia-Pacific,140,4.3,27
+1294,2024,Ford,Ford Truck M2,Truck,LFP,208.3,310,135997,USA,Europe,45,4.3,29
+1295,2024,Ford,Ford Truck M2,Truck,LFP,208.3,310,135997,USA,North America,44,4.3,24
+1296,2024,Ford,Ford Truck M2,Truck,LFP,208.3,310,135997,USA,Rest of World,14,4.3,40
+1297,2019,Rivian,Rivian SUV M1,SUV,LFP,73.7,419,47327,USA,Asia-Pacific,156,4.34,29
+1298,2019,Rivian,Rivian SUV M1,SUV,LFP,73.7,419,47327,USA,Europe,83,4.34,18
+1299,2019,Rivian,Rivian SUV M1,SUV,LFP,73.7,419,47327,USA,North America,71,4.34,30
+1300,2019,Rivian,Rivian SUV M1,SUV,LFP,73.7,419,47327,USA,Rest of World,35,4.34,33
+1301,2020,Rivian,Rivian SUV M1,SUV,LFP,75.9,446,42263,USA,Asia-Pacific,257,3.72,30
+1302,2020,Rivian,Rivian SUV M1,SUV,LFP,75.9,446,42263,USA,Europe,135,3.72,35
+1303,2020,Rivian,Rivian SUV M1,SUV,LFP,75.9,446,42263,USA,North America,138,3.72,22
+1304,2020,Rivian,Rivian SUV M1,SUV,LFP,75.9,446,42263,USA,Rest of World,36,3.72,24
+1305,2021,Rivian,Rivian SUV M1,SUV,NCA,78.1,517,58397,USA,Asia-Pacific,371,4.18,36
+1306,2021,Rivian,Rivian SUV M1,SUV,NCA,78.1,517,58397,USA,Europe,233,4.18,30
+1307,2021,Rivian,Rivian SUV M1,SUV,NCA,78.1,517,58397,USA,North America,151,4.18,30
+1308,2021,Rivian,Rivian SUV M1,SUV,NCA,78.1,517,58397,USA,Rest of World,61,4.18,24
+1309,2022,Rivian,Rivian SUV M1,SUV,LFP,80.3,466,43431,USA,Asia-Pacific,440,4.33,28
+1310,2022,Rivian,Rivian SUV M1,SUV,LFP,80.3,466,43431,USA,Europe,198,4.33,24
+1311,2022,Rivian,Rivian SUV M1,SUV,LFP,80.3,466,43431,USA,North America,220,4.33,28
+1312,2022,Rivian,Rivian SUV M1,SUV,LFP,80.3,466,43431,USA,Rest of World,68,4.33,28
+1313,2023,Rivian,Rivian SUV M1,SUV,NMC,82.5,535,49131,USA,Asia-Pacific,597,3.89,35
+1314,2023,Rivian,Rivian SUV M1,SUV,NMC,82.5,535,49131,USA,Europe,414,3.89,30
+1315,2023,Rivian,Rivian SUV M1,SUV,NMC,82.5,535,49131,USA,North America,383,3.89,25
+1316,2023,Rivian,Rivian SUV M1,SUV,NMC,82.5,535,49131,USA,Rest of World,129,3.89,21
+1317,2024,Rivian,Rivian SUV M1,SUV,NMC,84.7,484,46732,USA,Asia-Pacific,976,3.66,27
+1318,2024,Rivian,Rivian SUV M1,SUV,NMC,84.7,484,46732,USA,Europe,516,3.66,21
+1319,2024,Rivian,Rivian SUV M1,SUV,NMC,84.7,484,46732,USA,North America,329,3.66,27
+1320,2024,Rivian,Rivian SUV M1,SUV,NMC,84.7,484,46732,USA,Rest of World,161,3.66,30
+1321,2019,Rivian,Rivian Truck M1,Truck,NMC,154.4,260,156524,USA,Asia-Pacific,9,3.85,25
+1322,2019,Rivian,Rivian Truck M1,Truck,NMC,154.4,260,156524,USA,Europe,4,3.85,39
+1323,2019,Rivian,Rivian Truck M1,Truck,NMC,154.4,260,156524,USA,North America,4,3.85,33
+1324,2019,Rivian,Rivian Truck M1,Truck,NMC,154.4,260,156524,USA,Rest of World,2,3.85,30
+1325,2020,Rivian,Rivian Truck M1,Truck,NMC,159.0,244,137429,USA,Asia-Pacific,16,4.3,26
+1326,2020,Rivian,Rivian Truck M1,Truck,NMC,159.0,244,137429,USA,Europe,6,4.3,32
+1327,2020,Rivian,Rivian Truck M1,Truck,NMC,159.0,244,137429,USA,North America,6,4.3,32
+1328,2020,Rivian,Rivian Truck M1,Truck,NMC,159.0,244,137429,USA,Rest of World,2,4.3,39
+1329,2021,Rivian,Rivian Truck M1,Truck,NCA,163.6,272,157778,USA,Asia-Pacific,17,3.87,31
+1330,2021,Rivian,Rivian Truck M1,Truck,NCA,163.6,272,157778,USA,Europe,8,3.87,33
+1331,2021,Rivian,Rivian Truck M1,Truck,NCA,163.6,272,157778,USA,North America,11,3.87,30
+1332,2021,Rivian,Rivian Truck M1,Truck,NCA,163.6,272,157778,USA,Rest of World,3,3.87,38
+1333,2022,Rivian,Rivian Truck M1,Truck,NMC,168.3,289,140334,USA,Asia-Pacific,23,4.1,20
+1334,2022,Rivian,Rivian Truck M1,Truck,NMC,168.3,289,140334,USA,Europe,18,4.1,23
+1335,2022,Rivian,Rivian Truck M1,Truck,NMC,168.3,289,140334,USA,North America,13,4.1,24
+1336,2022,Rivian,Rivian Truck M1,Truck,NMC,168.3,289,140334,USA,Rest of World,5,4.1,27
+1337,2023,Rivian,Rivian Truck M1,Truck,LFP,172.9,279,114613,USA,Asia-Pacific,38,4.15,22
+1338,2023,Rivian,Rivian Truck M1,Truck,LFP,172.9,279,114613,USA,Europe,26,4.15,40
+1339,2023,Rivian,Rivian Truck M1,Truck,LFP,172.9,279,114613,USA,North America,20,4.15,23
+1340,2023,Rivian,Rivian Truck M1,Truck,LFP,172.9,279,114613,USA,Rest of World,6,4.15,27
+1341,2024,Rivian,Rivian Truck M1,Truck,LFP,177.5,266,132014,USA,Asia-Pacific,64,3.76,25
+1342,2024,Rivian,Rivian Truck M1,Truck,LFP,177.5,266,132014,USA,Europe,30,3.76,24
+1343,2024,Rivian,Rivian Truck M1,Truck,LFP,177.5,266,132014,USA,North America,24,3.76,31
+1344,2024,Rivian,Rivian Truck M1,Truck,LFP,177.5,266,132014,USA,Rest of World,8,3.76,28
+1345,2019,Rivian,Rivian Truck M2,Truck,NMC,253.6,412,144374,USA,Asia-Pacific,9,3.95,36
+1346,2019,Rivian,Rivian Truck M2,Truck,NMC,253.6,412,144374,USA,Europe,5,3.95,31
+1347,2019,Rivian,Rivian Truck M2,Truck,NMC,253.6,412,144374,USA,North America,6,3.95,38
+1348,2019,Rivian,Rivian Truck M2,Truck,NMC,253.6,412,144374,USA,Rest of World,1,3.95,28
+1349,2020,Rivian,Rivian Truck M2,Truck,NMC,261.2,415,162232,USA,Asia-Pacific,15,4.03,17
+1350,2020,Rivian,Rivian Truck M2,Truck,NMC,261.2,415,162232,USA,Europe,5,4.03,29
+1351,2020,Rivian,Rivian Truck M2,Truck,NMC,261.2,415,162232,USA,North America,7,4.03,39
+1352,2020,Rivian,Rivian Truck M2,Truck,NMC,261.2,415,162232,USA,Rest of World,3,4.03,25
+1353,2021,Rivian,Rivian Truck M2,Truck,NCA,268.8,448,162605,USA,Asia-Pacific,21,3.95,34
+1354,2021,Rivian,Rivian Truck M2,Truck,NCA,268.8,448,162605,USA,Europe,12,3.95,27
+1355,2021,Rivian,Rivian Truck M2,Truck,NCA,268.8,448,162605,USA,North America,11,3.95,29
+1356,2021,Rivian,Rivian Truck M2,Truck,NCA,268.8,448,162605,USA,Rest of World,3,3.95,19
+1357,2022,Rivian,Rivian Truck M2,Truck,NCA,276.4,500,133113,USA,Asia-Pacific,20,4.1,21
+1358,2022,Rivian,Rivian Truck M2,Truck,NCA,276.4,500,133113,USA,Europe,11,4.1,17
+1359,2022,Rivian,Rivian Truck M2,Truck,NCA,276.4,500,133113,USA,North America,14,4.1,33
+1360,2022,Rivian,Rivian Truck M2,Truck,NCA,276.4,500,133113,USA,Rest of World,4,4.1,27
+1361,2023,Rivian,Rivian Truck M2,Truck,LFP,284.0,452,115298,USA,Asia-Pacific,32,4.46,31
+1362,2023,Rivian,Rivian Truck M2,Truck,LFP,284.0,452,115298,USA,Europe,16,4.46,34
+1363,2023,Rivian,Rivian Truck M2,Truck,LFP,284.0,452,115298,USA,North America,21,4.46,27
+1364,2023,Rivian,Rivian Truck M2,Truck,LFP,284.0,452,115298,USA,Rest of World,5,4.46,30
+1365,2024,Rivian,Rivian Truck M2,Truck,LFP,291.6,416,127371,USA,Asia-Pacific,52,3.85,31
+1366,2024,Rivian,Rivian Truck M2,Truck,LFP,291.6,416,127371,USA,Europe,31,3.85,21
+1367,2024,Rivian,Rivian Truck M2,Truck,LFP,291.6,416,127371,USA,North America,29,3.85,30
+1368,2024,Rivian,Rivian Truck M2,Truck,LFP,291.6,416,127371,USA,Rest of World,12,3.85,28
+1369,2019,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,227.3,265,241681,India,Asia-Pacific,5,3.8,38
+1370,2019,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,227.3,265,241681,India,Europe,2,3.8,34
+1371,2019,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,227.3,265,241681,India,North America,1,3.8,25
+1372,2019,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,227.3,265,241681,India,Rest of World,0,3.8,40
+1373,2020,Ashok Leyland,Ashok Leyland Bus M1,Bus,NMC,234.1,287,256109,India,Asia-Pacific,7,3.86,29
+1374,2020,Ashok Leyland,Ashok Leyland Bus M1,Bus,NMC,234.1,287,256109,India,Europe,3,3.86,28
+1375,2020,Ashok Leyland,Ashok Leyland Bus M1,Bus,NMC,234.1,287,256109,India,North America,3,3.86,19
+1376,2020,Ashok Leyland,Ashok Leyland Bus M1,Bus,NMC,234.1,287,256109,India,Rest of World,1,3.86,42
+1377,2021,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,240.9,305,219397,India,Asia-Pacific,9,4.21,24
+1378,2021,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,240.9,305,219397,India,Europe,3,4.21,26
+1379,2021,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,240.9,305,219397,India,North America,3,4.21,37
+1380,2021,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,240.9,305,219397,India,Rest of World,1,4.21,32
+1381,2022,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,247.7,318,227993,India,Asia-Pacific,12,3.51,30
+1382,2022,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,247.7,318,227993,India,Europe,6,3.51,22
+1383,2022,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,247.7,318,227993,India,North America,4,3.51,31
+1384,2022,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,247.7,318,227993,India,Rest of World,2,3.51,32
+1385,2023,Ashok Leyland,Ashok Leyland Bus M1,Bus,NMC,254.5,362,252747,India,Asia-Pacific,15,3.71,24
+1386,2023,Ashok Leyland,Ashok Leyland Bus M1,Bus,NMC,254.5,362,252747,India,Europe,5,3.71,29
+1387,2023,Ashok Leyland,Ashok Leyland Bus M1,Bus,NMC,254.5,362,252747,India,North America,7,3.71,22
+1388,2023,Ashok Leyland,Ashok Leyland Bus M1,Bus,NMC,254.5,362,252747,India,Rest of World,2,3.71,27
+1389,2024,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,261.3,319,206264,India,Asia-Pacific,12,3.95,23
+1390,2024,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,261.3,319,206264,India,Europe,7,3.95,38
+1391,2024,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,261.3,319,206264,India,North America,8,3.95,30
+1392,2024,Ashok Leyland,Ashok Leyland Bus M1,Bus,LFP,261.3,319,206264,India,Rest of World,2,3.95,19
+1393,2019,Ashok Leyland,Ashok Leyland Truck M1,Truck,NMC,271.4,443,157098,India,Asia-Pacific,9,3.98,20
+1394,2019,Ashok Leyland,Ashok Leyland Truck M1,Truck,NMC,271.4,443,157098,India,Europe,5,3.98,44
+1395,2019,Ashok Leyland,Ashok Leyland Truck M1,Truck,NMC,271.4,443,157098,India,North America,3,3.98,30
+1396,2019,Ashok Leyland,Ashok Leyland Truck M1,Truck,NMC,271.4,443,157098,India,Rest of World,1,3.98,37
+1397,2020,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,279.6,448,141471,India,Asia-Pacific,13,3.93,30
+1398,2020,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,279.6,448,141471,India,Europe,7,3.93,31
+1399,2020,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,279.6,448,141471,India,North America,5,3.93,38
+1400,2020,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,279.6,448,141471,India,Rest of World,2,3.93,41
+1401,2021,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,287.7,453,134740,India,Asia-Pacific,11,4.67,25
+1402,2021,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,287.7,453,134740,India,Europe,9,4.67,31
+1403,2021,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,287.7,453,134740,India,North America,8,4.67,25
+1404,2021,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,287.7,453,134740,India,Rest of World,3,4.67,36
+1405,2022,Ashok Leyland,Ashok Leyland Truck M1,Truck,NCA,295.9,475,146407,India,Asia-Pacific,16,4.24,29
+1406,2022,Ashok Leyland,Ashok Leyland Truck M1,Truck,NCA,295.9,475,146407,India,Europe,8,4.24,27
+1407,2022,Ashok Leyland,Ashok Leyland Truck M1,Truck,NCA,295.9,475,146407,India,North America,12,4.24,28
+1408,2022,Ashok Leyland,Ashok Leyland Truck M1,Truck,NCA,295.9,475,146407,India,Rest of World,3,4.24,21
+1409,2023,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,304.0,472,138957,India,Asia-Pacific,38,3.91,28
+1410,2023,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,304.0,472,138957,India,Europe,20,3.91,23
+1411,2023,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,304.0,472,138957,India,North America,11,3.91,25
+1412,2023,Ashok Leyland,Ashok Leyland Truck M1,Truck,LFP,304.0,472,138957,India,Rest of World,4,3.91,30
+1413,2024,Ashok Leyland,Ashok Leyland Truck M1,Truck,NMC,312.2,552,126037,India,Asia-Pacific,49,3.47,35
+1414,2024,Ashok Leyland,Ashok Leyland Truck M1,Truck,NMC,312.2,552,126037,India,Europe,24,3.47,27
+1415,2024,Ashok Leyland,Ashok Leyland Truck M1,Truck,NMC,312.2,552,126037,India,North America,27,3.47,23
+1416,2024,Ashok Leyland,Ashok Leyland Truck M1,Truck,NMC,312.2,552,126037,India,Rest of World,7,3.47,21
+1417,2019,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,172.0,273,139456,India,Asia-Pacific,6,3.85,25
+1418,2019,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,172.0,273,139456,India,Europe,3,3.85,43
+1419,2019,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,172.0,273,139456,India,North America,3,3.85,29
+1420,2019,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,172.0,273,139456,India,Rest of World,1,3.85,30
+1421,2020,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,177.2,254,136256,India,Asia-Pacific,14,3.22,28
+1422,2020,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,177.2,254,136256,India,Europe,4,3.22,40
+1423,2020,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,177.2,254,136256,India,North America,5,3.22,26
+1424,2020,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,177.2,254,136256,India,Rest of World,2,3.22,33
+1425,2021,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,182.3,294,142514,India,Asia-Pacific,18,4.22,32
+1426,2021,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,182.3,294,142514,India,Europe,10,4.22,25
+1427,2021,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,182.3,294,142514,India,North America,8,4.22,28
+1428,2021,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,182.3,294,142514,India,Rest of World,2,4.22,36
+1429,2022,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,187.5,330,136066,India,Asia-Pacific,17,3.9,40
+1430,2022,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,187.5,330,136066,India,Europe,9,3.9,14
+1431,2022,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,187.5,330,136066,India,North America,8,3.9,28
+1432,2022,Ashok Leyland,Ashok Leyland Truck M2,Truck,NMC,187.5,330,136066,India,Rest of World,4,3.9,30
+1433,2023,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,192.6,265,125550,India,Asia-Pacific,25,4.0,21
+1434,2023,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,192.6,265,125550,India,Europe,14,4.0,22
+1435,2023,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,192.6,265,125550,India,North America,14,4.0,18
+1436,2023,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,192.6,265,125550,India,Rest of World,4,4.0,21
+1437,2024,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,197.8,287,133376,India,Asia-Pacific,40,3.99,37
+1438,2024,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,197.8,287,133376,India,Europe,25,3.99,35
+1439,2024,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,197.8,287,133376,India,North America,17,3.99,29
+1440,2024,Ashok Leyland,Ashok Leyland Truck M2,Truck,LFP,197.8,287,133376,India,Rest of World,6,3.99,26
+1441,2019,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NCA,3.3,121,2434,China,Asia-Pacific,1462,4.26,29
+1442,2019,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NCA,3.3,121,2434,China,Europe,903,4.26,34
+1443,2019,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NCA,3.3,121,2434,China,North America,928,4.26,18
+1444,2019,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NCA,3.3,121,2434,China,Rest of World,305,4.26,35
+1445,2020,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.4,109,2272,China,Asia-Pacific,1660,3.58,26
+1446,2020,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.4,109,2272,China,Europe,1208,3.58,28
+1447,2020,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.4,109,2272,China,North America,1000,3.58,42
+1448,2020,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.4,109,2272,China,Rest of World,326,3.58,32
+1449,2021,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,LFP,3.5,107,2484,China,Asia-Pacific,4117,4.14,28
+1450,2021,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,LFP,3.5,107,2484,China,Europe,2002,4.14,34
+1451,2021,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,LFP,3.5,107,2484,China,North America,1614,4.14,26
+1452,2021,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,LFP,3.5,107,2484,China,Rest of World,601,4.14,40
+1453,2022,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.6,127,2315,China,Asia-Pacific,5638,3.92,20
+1454,2022,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.6,127,2315,China,Europe,3250,3.92,30
+1455,2022,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.6,127,2315,China,North America,2735,3.92,24
+1456,2022,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.6,127,2315,China,Rest of World,745,3.92,26
+1457,2023,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.6,125,2543,China,Asia-Pacific,6007,4.35,34
+1458,2023,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.6,125,2543,China,Europe,3819,4.35,21
+1459,2023,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.6,125,2543,China,North America,4131,4.35,28
+1460,2023,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.6,125,2543,China,Rest of World,880,4.35,24
+1461,2024,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.7,121,2002,China,Asia-Pacific,9560,3.83,35
+1462,2024,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.7,121,2002,China,Europe,6471,3.83,33
+1463,2024,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.7,121,2002,China,North America,5199,3.83,27
+1464,2024,Yadea,Yadea Two-Wheeler M1,Two-Wheeler,NMC,3.7,121,2002,China,Rest of World,2201,3.83,15
+1465,2019,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.5,74,2241,China,Asia-Pacific,1334,3.86,39
+1466,2019,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.5,74,2241,China,Europe,829,3.86,34
+1467,2019,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.5,74,2241,China,North America,931,3.86,38
+1468,2019,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.5,74,2241,China,Rest of World,289,3.86,23
+1469,2020,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.5,78,2516,China,Asia-Pacific,2033,3.99,29
+1470,2020,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.5,78,2516,China,Europe,1254,3.99,30
+1471,2020,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.5,78,2516,China,North America,841,3.99,33
+1472,2020,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.5,78,2516,China,Rest of World,495,3.99,31
+1473,2021,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.6,72,1963,China,Asia-Pacific,3298,4.1,23
+1474,2021,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.6,72,1963,China,Europe,1591,4.1,16
+1475,2021,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.6,72,1963,China,North America,1378,4.1,23
+1476,2021,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.6,72,1963,China,Rest of World,512,4.1,23
+1477,2022,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.7,81,2438,China,Asia-Pacific,5510,3.95,26
+1478,2022,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.7,81,2438,China,Europe,3026,3.95,30
+1479,2022,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.7,81,2438,China,North America,2634,3.95,43
+1480,2022,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.7,81,2438,China,Rest of World,721,3.95,26
+1481,2023,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.8,87,2357,China,Asia-Pacific,5028,3.94,23
+1482,2023,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.8,87,2357,China,Europe,4044,3.94,30
+1483,2023,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.8,87,2357,China,North America,4172,3.94,25
+1484,2023,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,NMC,2.8,87,2357,China,Rest of World,1136,3.94,22
+1485,2024,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.8,88,1816,China,Asia-Pacific,7523,4.12,29
+1486,2024,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.8,88,1816,China,Europe,6586,4.12,22
+1487,2024,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.8,88,1816,China,North America,6360,4.12,28
+1488,2024,Yadea,Yadea Two-Wheeler M2,Two-Wheeler,LFP,2.8,88,1816,China,Rest of World,2084,4.12,25

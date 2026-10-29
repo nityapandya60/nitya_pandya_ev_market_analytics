@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>2024 Market Snapshot</h2>
+<section class="cards">
+  <div class="card"><span>{{ '{:,}'.format(k.units) }}</span>Units sold</div>
+  <div class="card"><span>{{ k.top_maker }}</span>Top manufacturer</div>
+  <div class="card"><span>{{ k.rng|int }} km</span>Avg driving range</div>
+  <div class="card"><span>{{ k.rating }} / 5</span>Avg customer rating</div>
+  <div class="card"><span>{{ k.makers }}</span>Manufacturers</div>
+</section>
+<p>Explore the interactive <a href="/dashboard">dashboard</a> or walk through the <a href="/story">data story</a>.</p>
+{% endblock %}

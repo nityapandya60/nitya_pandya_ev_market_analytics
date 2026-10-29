@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Interactive Dashboard</h2>
+<tableau-viz id="dash" src="{{ url }}" toolbar="bottom" hide-tabs device="desktop"></tableau-viz>
+<p class="hint">Not loading? Publish the workbook to Tableau Public and set <code>TABLEAU_DASHBOARD_URL</code>.</p>
+{% endblock %}

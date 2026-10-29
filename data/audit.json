@@ -1,0 +1,41 @@
+{
+  "dataset": "data/ev_market_data.csv",
+  "data_note": "Synthetic sample data; not official market statistics.",
+  "rows": 1488,
+  "columns": 14,
+  "year_min": 2019,
+  "year_max": 2024,
+  "unique_manufacturers": 18,
+  "unique_models": 62,
+  "unique_categories": 6,
+  "unique_battery_types": 4,
+  "unique_regions": 4,
+  "missing_values_by_column": {
+    "record_id": 0,
+    "sales_year": 0,
+    "manufacturer": 0,
+    "model": 0,
+    "category": 0,
+    "battery_type": 0,
+    "battery_capacity_kwh": 0,
+    "driving_range_km": 0,
+    "price_usd": 0,
+    "manufacturing_country": 0,
+    "sales_region": 0,
+    "annual_sales": 0,
+    "customer_rating": 0,
+    "fast_charge_minutes": 0
+  },
+  "duplicate_record_ids": 0,
+  "ratings_outside_1_to_5": 0,
+  "negative_sales_rows": 0,
+  "numeric_columns_checked": [
+    "sales_year",
+    "battery_capacity_kwh",
+    "driving_range_km",
+    "price_usd",
+    "annual_sales",
+    "customer_rating",
+    "fast_charge_minutes"
+  ]
+}

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EV Market Analytics</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>⚡ EV Market Analytics</h1>
+    <nav>
+      <a href="/" class="{{ 'on' if page=='home' }}">Overview</a>
+      <a href="/dashboard" class="{{ 'on' if page=='dashboard' }}">Dashboard</a>
+      <a href="/story" class="{{ 'on' if page=='story' }}">Story</a>
+      <a href="/personas" class="{{ 'on' if page=='personas' }}">Personas</a>
+    </nav>
+  </header>
+  <main>{% block content %}{% endblock %}</main>
+  <footer>Built with Tableau · SQL · Flask</footer>
+</body>
+</html>
